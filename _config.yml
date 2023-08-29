@@ -13,7 +13,7 @@ name                     : &name "Prof. Dr. David Ginsbourger"
 description              : &description "Chair of Statistical Data Science"
 url                      : https://ginsbourger.github.io/website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "github.com/Ginsbourger"
+repository               : "Ginsbourger"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
