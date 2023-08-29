@@ -11,7 +11,7 @@ title                    : "David Ginsbourger's website"
 title_separator          : "-"
 name                     : &name "Prof. Dr. David Ginsbourger"
 description              : &description "Chair of Statistical Data Science"
-url                      : https://ginsbourger.github.io/website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ginsbourger.github.io/website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ginsbourger.github.io/website"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://ginsbourger.github.io/website/"
+  github           : "https://ginsbourger.github.io/website"
   google_plus      :
   keybase          :
   instagram        :
