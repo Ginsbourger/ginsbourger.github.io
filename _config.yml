@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Ginsbourger's website"
+title                    : "David Ginsbourger"
 title_separator          : "-"
 name                     : &name "Prof. Dr. David Ginsbourger"
 description              : &description "Chair of Statistical Data Science"
