@@ -8,5 +8,9 @@ redirect_from:
   - /about.html
 ---
 
- This is David Ginsbourger's brand new github page!
+  <p>I am working at <a href="http://www.imsv.unibe.ch/index_eng.html"> IMSV</a>, Departement of Mathematics and Statistics, 
+      <a href="http://www.unibe.ch">University of Bern</a>, where I am heading the chair of statistical data science, serving 
+      as director of studies in statistics, and as institute co-director.   
+      <!--My office (-106) is located in the "Alpenegg building", Alpeneggstrasse 22, 3012 Bern. </p> -->
+      </p>
  
