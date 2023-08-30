@@ -5,7 +5,710 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
+<p> Google scholar publication page: <a href="https://scholar.google.ch/citations?hl=de&user=qfSOpvUAAAAJ&view_op=list_works&sortby=pubdate"> link</a>.  </p>
+
+<p> Below a list of papers, by topic: </p>
+    <ul>
+    <li> <a href="#GP">Gaussian random field models, kernels, and kriging</a></li>
+    <li> <a href="#SUR">Bayesian (kriging-based) contour lines and excursion set estimation algorithms</a></li>
+    <li> <a href="#EGO">Bayesian (kriging-based) global optimization algorithms</a></li>
+    <li> <a href="#Appli">Applications</a></li>
+</ul>
+
+<a name="SUR" id="SUR"></a>
+   <h3> Random field-based set estimation methods</h3>  
+<ul>
+<li> <a href="https://arxiv.org/abs/2109.03457">Uncertainty Quantification and Experimental Design for large-scale linear Inverse Problems under Gaussian Process Priors</a>. 
+<br />  
+<small>Status: Accepted to SIAM/ASA Journal on Uncertainty Quantification.   
+<br />  
+Joint work with Cédric Travelletti* and Niklas Linde.
+</small>   
+</li>
+<p> </p>
+<li> <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-2/Learning-excursion-sets-of-vector-valued-Gaussian-random-fields-for/10.1214/21-AOAS1451.full">
+Learning excursion sets of vector-valued Gaussian random fields for autonomous ocean sampling</a>. 
+<br />  
+<small>Status: In Annals of Applied Statistics, 15(2): 597-618, 2021.   
+[<a href="https://arxiv.org/pdf/2007.03722.pdf">preprint</a>] 
+<br />  
+Joint work with Trygve Olaf Fossum*, Cédric Travelletti, Jo Eidsvik, and Kanna Rajan.
+</small>   
+</li>
+<p> </p>
+<li> <a href="https://www.tandfonline.com/doi/full/10.1080/00401706.2019.1693427">
+Adaptive Design of Experiments for Conservative Estimation of Excursion Sets</a>. 
+<br />  
+<small>Status: In Technometrics, 63:1, 13-26, 2021.   
+[<a href="https://arxiv.org/pdf/1611.07256.pdf">preprint</a>] 
+<br />  
+Joint work with Dario Azzimonti*, Julien Bect, Clement Chevalier, Yann Richet.
+</small>   
+</li>
+<p> </p>
+<!-- <li> <a href="https://hal.archives-ouvertes.fr/hal-01910750/document"> -->
+<li> <a href="https://projecteuclid.org/euclid.ecp/1553220033">
+Conditions for the finiteness of the moments of the volume of level sets</a>. 
+<br />  
+<small>Status: In Electronic Communications in Probability, 
+Volume 24 (2019), paper no. 17, 8 pp.   
+<br />  
+Joint work with Diego Armentano, Jean-Marc Azais*, José Rafael Leon.
+</small>   
+</li>
+<p> </p>
+<li> <a href="https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/32773?confirm=9fcbb544"> 
+A supermartingale approach to Gaussian process based sequential design of experiments</a>. 
+<br />  
+<small>Status: In Bernoulli 25(4A):2883-2919, 2019.   
+<br />  
+Joint work with Julien Bect* and Fran&ccedilois Bachoc.
+</small>
+</li>
+<p> </p>
+<!-- <li> <a href="https://arxiv.org/abs/1710.00688"> -->
+<li> <a href="https://www.tandfonline.com/doi/full/10.1080/00401706.2018.1562987">
+Profile extrema for visualizing and quantifying uncertainties on excursion regions. Application to coastal flooding</a>. 
+<br />  
+<small>Status: Technometrics, 61:4, 474-493, 2019.   
+<br />  
+Joint work with Dario Azzimonti*, Jeremy Rohmer, Deborah Idier.
+</small>   
+</li>
+<p> </p>
+<li> <a href="http://amstat.tandfonline.com/doi/abs/10.1080/10618600.2017.1360781">
+Estimating orthant probabilities of high dimensional Gaussian vectors with an application to set estimation</a>. <br /> 
+<small>Status: Journal of Computational and Graphical Statistics, 27(2):255-267, 2018.
+[<a href="https://hal.archives-ouvertes.fr/hal-01289126/document">preprint</a>]   
+<br />  
+Joint work with Dario Azzimonti*
+</small>
+</li>
+<p> </p>
+<li> <a href="http://epubs.siam.org/doi/abs/10.1137/141000749?journalCode=sjuqa3">
+Quantifying uncertainties on excursion sets under a Gaussian random field prior</a>. <br /> 
+<small>Status: In SIAM/ASA J. Uncertainty Quantification, 4(1), 850–874, 2016.   
+[<a href="http://arxiv.org/pdf/1501.03659v2.pdf">preprint</a>]
+<br />  
+Joint work with Dario Azzimonti*, Julien Bect, and Clement Chevalier 
+</small>
+</li>
+<p> </p>
+<li> <a href="http://www.sciencedirect.com/science/article/pii/S0377221714005980">
+Quantifying uncertainty on Pareto fronts with Gaussian Process conditional simulations</a>. <br /> 
+<small>Status: European Journal of Operational Research, 243(2), 386-394, 2015.  
+[<a href="https://hal.inria.fr/hal-00904811/PDF/PaperEjor_Halv2.pdf">preprint</a>]
+<br />  
+Joint work with Mickael Binois*, and Olivier Roustant
+</small>
+</li>
+<p> </p>
+<li> <a href="http://epubs.siam.org/doi/abs/10.1137/130949555">
+Bayesian adaptive reconstruction of profile optima and optimizers</a>. <br /> 
+<small>Status: In SIAM/ASA J. Uncertainty Quantification, 2(1):490-510, 2014.  
+[<a href="https://hal.inria.fr/hal-00920154/document">preprint</a>]
+<br />  
+Joint work with Jean Baccou, Clement Chevalier, Nicolas Garland, Yann Monerie, Frederic Perales
+</small>
+</li>
+<p> </p>
+<li> <a href="http://www.tandfonline.com/doi/abs/10.1080/00401706.2013.860918">
+Fast kriging-based stepwise uncertainty reduction with application to the identification of an excursion set</a>. <br /> 
+<small>Status: Technometrics, 56(4):455-465, 2014.
+[<a href="https://hal.inria.fr/hal-00641108v2/document">preprint</a>]
+<!--<a href="http://hal.archives-ouvertes.fr/hal-00641108/fr/">-->
+<br />  
+Joint work with Julien Bect, Cl&eacutement Chevalier*, Victor Picheny, Yann Richet and Emmanuel Vazquez 
+</small>
+</li>
+<p> </p>
+<li> <a href="http://www.sciencedirect.com/science/article/pii/S0167947313001060">
+The KrigInv package: An efficient and user-friendly R implementation of Kriging-based inversion algorithms</a>. <br /> 
+<small>Status: In Computational Statistics and Data Analysis 71, pp. 1021-1034, 2014.
+[<a href="https://hal.inria.fr/hal-00713537v2/document">preprint</a>]
+<br />  
+Joint work with Cl&eacutement Chevalier* and Victor Picheny 
+</small>
+</li>
+<p> </p>
+<li> <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-00218-7_5">
+Estimating and quantifying uncertainties on level sets using the Vorob'ev expectation and deviation with Gaussian process models</a>. <br /> 
+<small>Status: In mODa 10 - Advances in Model-Oriented Design and Analysis.
+Contributions to Statistics, pp 35-43, 2013. 
+[<a href="https://hal.archives-ouvertes.fr/hal-00731783/document">preprint</a>]
+<br />  
+Joint work with Julien Bect, Cl&eacutement Chevalier* and Ilya Molchanov
+</small>
+</li>
+<p> </p>
+<li> <a href="http://link.springer.com/article/10.1007%2Fs11222-011-9241-4">
+Sequential design of computer experiments for the estimation of a probability of failure</a>. <br /> 
+<small>Status: 
+In Statistics and Computing, 22 (3): 773-793, 2012.
+[<a href="http://arxiv.org/pdf/1009.5177.pdf">preprint</a>]
+<br />  
+Joint work with Julien Bect*, Ling Li, Victor Picheny, Yann Richet and Emmanuel Vazquez*  
+</small>
+</li>
+<p> </p>
+<li> <a href="http://dx.doi.org/10.1115/1.4001873">
+Adaptive Designs of experiments for accurate approximation of target regions</a>. <br /> 
+<small>Status: 
+In Journal of Mechanical Design, 132 (7), 2010.
+[<a href="https://hal.archives-ouvertes.fr/hal-00319385v2/document">preprint</a>]
+<br />  
+Joint work with Rafi Haftka, Nam-Ho Kim, Victor Picheny* and Olivier Roustant  
+</small>
+</li>
+<p> </p>
+
+</ul> 
+
+
+<a name="GP" id="GP"></a>
+   <h3> Gaussian random field models, kernels, and kriging</h3>  
+<ul>
+<li> <a href="https://projecteuclid.org/euclid.ejs/1595404878"> 
+Gaussian processes with multidimensional distribution inputs via optimal transport and Hilbertian embedding</a>. 
+<br /> 
+<small>Status: Electronic Journal of Statistics 14 (2), 2742-2772. 
+<br />  
+Joint work with François Bachoc*, Alexandra Suvorikova, Jean-Michel Loubes, Vladimir Spokoiny </small>
+<!-- http://hal.archives-ouvertes.fr/hal-00850436 -->
+</li>
+<p> </p>
+<li> <a href="https://epubs.siam.org/doi/abs/10.1137/17M1129179"> 
+Warped Gaussian processes and derivative-based sequential design for functions with heterogeneous variations</a>.   
+<br />  
+<small>Status: SIAM/ASA J. Uncertainty Quantification 6(3):991-1018, 2018.   
+[Older <a href="https://hal.archives-ouvertes.fr/hal-01507368/document">preprint</a>] 
+<br />  
+Joint work with Sebastien Marmin*, Jean Baccou and Jacques Liandrat.
+</small>
+</li>
+<p> </p>
+<li> <a href="http://www.sciencedirect.com/science/article/pii/S0378375815001640"> <!--http://www.sciencedirect.com/science/article/pii/S0378375815001640">  -->
+On degeneracy and invariances of random fields paths with applications in Gaussian process modelling</a>. 
+<br /> 
+<small>Status: Journal of Statistical Planning and Inference, 170, 117-128, 2016. 
+[Older <a href="http://arxiv.org/abs/1308.1359">arxiv paper</a>] <br />  
+Joint work with Olivier Roustant and Nicolas Durrande </small>
+<!-- http://hal.archives-ouvertes.fr/hal-00850436 -->
+</li>
+<p> </p>
+<li> <a href="https://link.springer.com/chapter/10.1007/978-3-319-33507-0_15">
+On ANOVA decompositions of kernels and Gaussian random field paths</a>. <br /> 
+<small>Status: In Monte Carlo and Quasi-Monte Carlo Methods. Springer Proceedings in Mathematics & Statistics vol 163, pp 315-330, 2016. [<a href="http://arxiv.org/abs/1308.1359">Arxiv preprint</a>] <br />  
+Joint work with Nicolas Durrande, Nicolas Lenz, Olivier Roustant and Dominic Schuhmacher </small>
+</li>
+<p> </p>
+<li> <a href="http://link.springer.com/article/10.1007%2Fs11004-014-9573-7">
+Fast Update of Conditional Simulation Ensembles</a>. <br /> 
+<small>Status: In Mathematical Geosciences, 47(7), 771-789, 2015. 
+[<a href="https://hal.archives-ouvertes.fr/hal-00984515/document">preprint</a>]
+<br />  
+Joint work with Clement Chevalier and Xavier Emery </small>
+</li>
+<p> </p>
+<li> <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-00218-7_13">
+Kernels and designs for modelling invariant functions: From group invariance to additivity</a>. <br /> 
+<small>Status: In mODa 10 - Advances in Model-Oriented Design and Analysis. 
+Contributions to Statistics 2013, pp 107-115. 
+[<a href="https://hal.inria.fr/hal-00731657/document">preprint</a>]
+<br />  
+Joint work with Nicolas Durrande and Olivier Roustant  </small>
+</li>
+<p> </p>
+<li>  <a href="http://www.sciencedirect.com/science/article/pii/S0047259X1200214X">
+ANOVA kernels and RKHS of zero mean functions for model-based sensitivity analysis</a>. <br /> 
+<small>Status: In Journal of Multivariate Analysis, 115, 57-67, 2013. 
+[Older <a href="http://arxiv.org/pdf/1106.3571.pdf">preprint</a>] 
+<br />  
+Joint work with Laurent Carraro, Nicolas Durrande* and Olivier Roustant  </small>
+</li>
+<p> </p>
+<li> <a href="http://epubs.siam.org/doi/abs/10.1137/120882834">
+A Nonstationary Space-Time Gaussian Process Model for Partially Converged Simulations</a>. <br />
+<small>Status: In SIAM/ASA J. Uncertainty Quantification, 1(1), 57-78, 2013. 
+[<a href="http://boris.unibe.ch/41519/8/A%20non-stationary%20space-time%20Gaussian%20Process%20model%20for%20partially%20converged%20simulations.pdf">preprint</a>]
+<br />  
+Joint work with Victor Picheny* </small>
+</li>
+<p> </p>
+<li> <a href="http://afst.cedram.org/afst-bin/feuilleter?id=AFST_2012_6_21_3">
+Argumentwise invariant kernels for the approximation of invariant functions</a>. <br />   
+<small>Status: In Annales de la Facult&eacute des Sciences de Toulouse, 21 (3): 501-527, 2012. 
+[<a href="https://hal.archives-ouvertes.fr/hal-00632815v2/document">preprint</a>]
+<br />  
+Joint work with Xavier Bay, Laurent Carraro and Olivier Roustant  </small>
+</li>
+<p> </p>
+<li> <a href="http://afst.cedram.org/afst-bin/feuilleter?id=AFST_2012_6_21_3">
+Additive covariance kernels for high-dimensional gaussian process modeling</a>. <br /> 
+<small>Status: In Annales de la Facult&eacute des Sciences de Toulouse, 21 (3): 481-499, 2012. 
+[<a href="http://arxiv.org/pdf/1111.6233v1.pdf">preprint</a>]
+<br />  
+Joint work with Nicolas Durrande* and Olivier Roustant  </small>
+</li>
+<p> </p>
+<li> <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-32408-6_29">
+Corrected Kriging update formulae for batch-sequential data assimilation</a>. <br />
+<small>
+Status: In Lecture Notes in Earth System Sciences 2014, pp 119-122 
+<!-- <a href="http://hal.archives-ouvertes.fr/hal-00683362"> -->
+Joint work with Cl&eacutement Chevalier* and  Xavier &Eacutemery  </small>
+</li>
+<p> </p>
+<li>  <a href="http://www.jstatsoft.org/v51/i01">
+DiceKriging, DiceOptim: Two R packages for the analysis of computer experiments by kriging-based metamodelling and optimization</a>.   <br />  
+<small>Status: In Journal of Statistical Software, 51 (1), 2012<br />  
+Joint work with Yves Deville and Olivier Roustant*  </small>
+</li>
+<p> </p>
+<li> <a href="http://onlinelibrary.wiley.com/doi/10.1002/asmb.741/abstract">
+A note on the choice and the estimation of Kriging models for the analysis of deterministic computer experiments</a>. <br />
+<small>Status: In Applied Stochastic Models for Business and Industry, 25 (2): 115-131, 2009. 
+[<a href="https://hal.archives-ouvertes.fr/hal-00270173/file/Note_on_Kriging.pdf">preprint</a>]
+<br />  
+Joint work with Anca Badea, Laurent Carraro, Delphine Dupuy and Olivier Roustant  </small>
+</li>
+</ul>     
+
+
+<a name="EGO" id="EGO"></a>
+    <h3> Bayesian optimization methods </h3>  
+ <ul>
+ <!-- 
+ -->
+ <li> <a href="https://arxiv.org/abs/2102.07612">Goal-oriented adaptive sampling under random field modelling of response probability distributions</a>. 
+<br />
+<small>
+Status: In ESAIM: Proceedings and surveys 71 (FGS’2019), 89-100.
+[<a href="https://arxiv.org/abs/2102.07612">preprint</a>]
+<br /> 
+Joint work with Athenais Gautier* and Guillaume Pirot </small>
+</li> 
+<p> </p>
+ <li> <a href=""> 
+ Kernels over sets of finite sets using RKHS embeddings, with application to Bayesian (combinatorial) optimization</a>. 
+<br />
+<small>
+Status: In Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, PMLR 108, 2731-2741, 2020.
+[<a href="http://proceedings.mlr.press/v108/buathong20a/buathong20a.pdf">preprint</a>]
+<br />  
+Joint work with Poompol Buathong (joint*) and Tipaluck Krityakierne
+</small>
+</li> 
+<p> </p>
+ <li> <a href="https://link.springer.com/article/10.1007/s10898-019-00839-1"> 
+On the choice of the low-dimensional domain for global optimization via random embeddings</a>. 
+<br />
+<small>
+Status: Journal of Global Optimization, 76, 69-90, 2020. 
+[<a href="https://arxiv.org/abs/1704.05318">preprint</a>]
+<br />  
+Joint work with Mickael Binois* and Olivier Roustant
+</small>
+</li> 
+<p> </p>
+<li> <a href="https://hal.archives-ouvertes.fr/hal-01361894/document"> 
+Efficient batch-sequential Bayesian optimization with moments of truncated Gaussian vectors</a>. 
+<br /> 
+<small>
+Joint work with Cl&eacutement Chevalier and S&eacutebastien Marmin*
+</small>
+</li> 
+<p> </p>
+ <li>  <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-27926-8_4"> <!--http://arxiv.org/abs/1411.3685">-->
+Differentiating the multipoint Expected Improvement for optimal batch design</a>. 
+<br /> 
+<small> Machine Learning, Optimization, and Big Data,
+Lecture Notes in Computer Science vol. 9432, pp 37-48, 2015.
+[<a href="http://arxiv.org/pdf/1503.05509v2.pdf">preprint</a>]
+<br />  
+Joint work with Clément Chevalier and S&eacutebastien Marmin*
+</small>
+</li>
+<p> </p> 
+
+<li> <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-27926-8_16"> <!--http://arxiv.org/abs/1411.3685">-->
+Global optimization with sparse and local Gaussian process models.</a>
+<br /> 
+<small> Machine Learning, Optimization, and Big Data,
+Lecture Notes in Computer Science vol. 9432, pp 185-196, 2015.
+<br />  
+Joint work with Tipaluck Krityakierne*
+</small>
+</li>
+<p> </p> 
+ 
+<li>  <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-19084-6_28"> <!--http://arxiv.org/abs/1411.3685">-->
+A warped kernel improving robustness in Bayesian optimization via random embeddings</a>. <br /> 
+<small> Learning and Intelligent Optimization, Lecture Notes in Computer Science vol. 8994, pp 281-286, 2015.
+[<a href="http://arxiv.org/pdf/1411.3685v3.pdf">preprint</a>]
+<br />  
+Joint work with Mickael Binois* and Olivier Roustant 
+</small>
+</li>
+<p> </p> 
+ 
+<li>  <a href="http://www.sciencedirect.com/science/article/pii/S0167947313001205">
+Noisy kriging-based optimization methods: a unified implementation within the DiceOptim package</a>. <br /> 
+<small>Status: In Computational Statistics and Data Analysis 71, pp. 1035-1053, 2014.
+[<a href="http://boris.unibe.ch/41533/8/Noisy%20kriging-based%20optimization%20methods%20a%20unified%20implementation%20within%20the%20DiceOptim%20package.pdf">preprint</a>]
+<br />  
+Joint work with Victor Picheny*
+</small>
+</li>
+<p> </p>
+
+<li> <a href="http://www.springer.com/us/book/9783642449727">
+Fast computation of the multipoint Expected Improvement with applications in batch selection</a>. <br /> 
+<small>Status:  
+In Learning and Intelligent Optimization, Lecture Notes in Computer Science vol. 7997, pp 59-69, 2013.
+[Also presented as poster and short paper at NIPS 2012 Workshop on Bayesian Optimization and Decision Making]
+[<a href="https://hal.archives-ouvertes.fr/hal-00732512v2/document">preprint</a>]
+<br />  
+Joint work with Cl&eacutement Chevalier*
+</small>
+</li>
+<p> </p>
+
+<li> <a href="http://amstat.tandfonline.com/doi/abs/10.1080/00401706.2012.707580?journalCode=utch20">
+Quantile-Based Optimization of Noisy Computer Experiments with Tunable Precision</a>. <br /> 
+<small>Status:  
+In Technometrics, 55(1), 2013 [with discussion and rejoinder].
+[<a href="https://hal.inria.fr/file/index/docid/680682/filename/Technometrics4.1.pdf">preprint</a>]
+<br />  
+Joint work with Gregory Caplin, Victor Picheny* and Yann Richet
+</small>
+</li>
+<p> </p>
+
+<li> <a href="http://link.springer.com/article/10.1007%2Fs00158-013-0919-4">
+Benchmark of kriging-based infill criteria for noisy optimization</a>. <br /> 
+<small>Status:  
+In Structural and Multidisciplinary Optimization 48(3), 607-626.
+[<a href="https://hal.archives-ouvertes.fr/hal-00658212/document">preprint</a>]
+<br />  
+Joint work with Victor Picheny* and Tobias Wagner
+</small>
+</li>
+<p> </p>
+
+<li> <a href="https://hal.inria.fr/hal-00723427v2">
+Parallel Budgeted Optimization Applied to the Design of an Air Duct</a>. <br /> 
+<small>Status:  
+OMD2 Technical report, 2012. 
+<br />  
+Joint work with Ramunas Girdziusas*, Rodolphe Le Riche, Fabien Viale
+</small>
+</li>
+<p> </p>
+<li> <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-34413-8_37">
+Expected improvements for the asynchronous parallel global optimization of expensive functions : potentials and challenges</a>. <br /> 
+<small>Status:  
+In Learning and Intelligent Optimization, 
+Lecture Notes in Computer Science vol. 7219, pp 413-418, 2012.
+[<a href="http://hal.archives-ouvertes.fr/hal-00723427/document">preprint</a>]
+<br />  
+Joint work with Janis Janusevskis* and Rodolphe Le Riche
+</small>
+</li>
+<p> </p> 
+
+<li> <a href="http://hal.archives-ouvertes.fr/hal-00507632">
+Dealing with asynchronicity in parallel Gaussian Process based global optimization</a>. <br /> 
+<small>Status:  
+OMD2 Technical report, 2010.
+<br />  
+Joint work with Janis Janusevskis and Rodolphe Le Riche
+</small>
+</li>
+<p> </p>
+
+<li> <a href="http://link.springer.com/chapter/10.1007%2F978-3-7908-2410-0_12">
+Towards Gaussian Process-based Optimization with Finite Time Horizon</a>. <br /> 
+<small>Status:  
+In mODa 9 Advances in Model-Oriented Design and Analysis, pages 89-96, Physica-Verlag HD, Contributions to Statistics, 2010.
+[<a href="http://www.emse.fr/~leriche/moda9_ginsbourger.pdf">preprint</a>]
+<br />  
+Joint work with Rodolphe Le Riche
+</small>
+</li>
+<p> </p>
+
+<li> <a href="http://hal.archives-ouvertes.fr/hal-00489321/en/">
+Noisy Expected Improvement and on-line computation time allocation for the optimization of simulators with tunable fidelity</a>. <br /> 
+<small>Status:  
+In Proceedings of the 2nd International Conference on Engineering Optimization, 2010.
+<br />  
+Joint work with Victor Picheny*
+</small>
+</li>
+<p> </p>
+<li> <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-10701-6_6">
+Kriging is well-suited to parallelize optimization</a>. <br /> 
+<small>Status:  
+In Computational Intelligence in Expensive Optimization Problems, pages 131-162, 
+Springer Berlin Heidelberg, Adaptation Learning and Optimization, 2010.
+[A previous (unpublished) version following up a talk presented at the NCP07 
+conference is available  
+<a href="https://hal.archives-ouvertes.fr/hal-00260579/en/">online</a>. If you wish 
+to refer to this work, please better refer to the 2010 (published) book chapter.]
+<br />  
+Joint work with Laurent Carraro and Rodolphe Le Riche
+</small>
+</li>
+<p> </p>
+
+<li> <a href="http://onlinelibrary.wiley.com/doi/10.1002/qre.945/abstract">
+Discrete mixtures of kernels for Kriging-based optimization</a>. <br /> 
+<small>Status:  
+In Quality and Reliability Eng. Int., 24 (6): 681-691, 2008.
+<br />  
+Joint work with Laurent Carraro and C&eacuteline Helbert
+[<a href="https://hal.archives-ouvertes.fr/hal-00260751/document">Older preprint</a>]
+</small>
+</li>
+<p> </p>
+
+</ul> 
+
+<a name="Appli" id="Appli"></a>
+    <h3> Papers in application fields </h3>  
+ <ul> 
+ <li> 
+<a href="">
+Adaptive data-driven selection of sequences of biological and cognitive markers in pre-clinical diagnosis of dementia</a>. <br /> 
+<small>Status: Submitted 
+[<a href="https://arxiv.org/pdf/2104.08156.pdf">preprint</a>]-
+<br />  
+Joint work with P. Wyss*, H. Shou, C. Davatzikos, S. Klöppel, A. Abdulkadir
+<br />  
+</small>
+</li>
+<p> </p>
+ <li> 
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-95467-3_30">
+Fast ABC with joint generative modelling and subset simulation</a>. <br /> 
+<small>Status: In Machine Learning, Optimization, and Data Science. LOD 2021. LNCS 13163 (2022)
+[<a href="https://arxiv.org/pdf/2104.08156.pdf">preprint</a>]-
+<br />  
+Joint work with E. Maalouf* and N Linde
+<br />  
+</small>
+</li>
+<p> </p>
+<li> 
+<a href="https://academic.oup.com/gji/article-abstract/228/2/839/6374555?redirectedFrom=fulltext">
+Lithological tomography with the correlated pseudo-marginal method</a>. <br /> 
+<small>Status: In Geophysical Journal International 228 (2), 839-856 (2021).
+<!--[<a href="https://arxiv.org/pdf/1912.11827.pdf">preprint</a>]-->
+<br />  
+Joint work with Lea Friedli*, Niklas Linde, and Arnaud Doucet. 
+<br />  
+</small>
+</li>
+<p> </p>
+ <li> 
+<a href="https://www.tandfonline.com/doi/abs/10.1080/10618600.2020.1844213">
+Modeling Nonstationary Extreme Dependence With Stationary Max-Stable Processes and Multidimensional Scaling</a>. <br /> 
+<small>Status: In Journal of Computational and Graphical Statistics (Published online: 11 December 2020).
+<!--[<a href="https://arxiv.org/pdf/1912.11827.pdf">preprint</a>]-->
+<br />  
+Joint work with Clément Chevalier* and Olivia Martius. 
+<br />  
+</small>
+</li>
+<p> </p>
+ <li> 
+<a href="https://link.springer.com/article/10.1007/s00477-020-01928-4">
+Area-covering postprocessing of ensemble precipitation forecasts using topographical and seasonal conditions</a>. <br /> 
+<small>Status: In Stochastic Environmental Research and Risk Assessment 35, 215-230, 2021.
+[<a href="https://arxiv.org/pdf/1912.11827.pdf">preprint</a>]
+<br />  
+Joint work with Lea Friedli* and Jonas Bhend. 
+<br />  
+</small>
+</li>
+<p> </p>
+
+ <li> 
+<!-- <a href="https://arxiv.org/pdf/1910.05005.pdf"> -->
+<a href="http://proceedings.mlr.press/v100/jaquier20b/jaquier20b.pdf">
+Learning from demonstration with model-based Gaussian process</a>. <br /> 
+<small>Status: In Proceedings of the Conference on Robot Learning, PMLR 100, 247-257, 2020.
+<br />  
+Joint work with Noémie Jaquier* and Sylvain Calinon. 
+<br />  
+</small>
+</li>
+<p> </p>
+
+  <li> 
+<a href="https://www.hydrol-earth-syst-sci.net/23/351/2019/">
+Contaminant source localization via Bayesian global optimization</a>. <br /> 
+<small>Status: In Hydrology and Earth System Science, 23, 351-369, 2019.
+<br />  
+Joint work with Tipaluck Krityakierne, Guillaume Pirot*, and Philippe Renard. 
+<br />  
+NB: open access article + the corresponding data can be downloaded <a href="https://zenodo.org/record/2476286#.XEh5SWko-6I">here</a>.
+</small>
+</li>
+<p> </p>
+ 
+ <li> 
+<a href="http://www.ginsbourger.ch/Sequential_Design_of_Computer_Experiments.pdf">
+Sequential Design of Computer Experiments</a>. <br /> 
+<small>Status: In Wiley StatsRef: Statistics Reference Online (publisher: John Wiley & Sons Ltd.), 2018.
+<br />  
+The link above points to an author version; the published version can be obtained 
+<a href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781118445112">here</a>.
+</small>
+</li>
+<p> </p>
+
+ 
+<li> 
+<a href="https://www.sciencedirect.com/science/article/pii/S0169809517308232">
+A Poisson regression approach to model monthly hail occurrence in Northern Switzerland using large-scale environmental variables</a>. <br /> 
+<small>Status:  
+In Atmospheric Research, 203:261-274, 2018.
+<br />  
+Joint work with Erica Madonna* and Olivia Martius. 
+</small>
+</li>
+<p> </p>
+ 
+ <li> 
+<a href="https://www.sciencedirect.com/science/article/pii/S0309170817304608">
+On uncertainty quantification in hydrogeology and hydrogeophysics</a>. <br /> 
+<small>Status:  
+In Advances in Water Resources 110, 166-181, 2017.
+<br />  
+Joint work with Arnaud Doucet, James Irving, Niklas Linde*, and Fabio Nobile.  
+</small>
+</li>
+<p> </p>
+
+<li> 
+<a href="http://www.springer.com/us/book/9783319312644">
+Design of computer experiments using competing distances between set-valued inputs</a>. <br /> 
+<small>Status:  
+In mODa 11 - Advances in Model-Oriented Design and Analysis, Contributions to Statistics, 2016. 
+[<a href="http://www.ginsbourger.ch/Ginsbourger_etal_mODa11_preprint.pdf">preprint</a>]
+<br />  
+Joint work with Jean Baccou, Clément Chevalier and Frédéric Perales. 
+</small>
+</li>
+<p> </p>
+
+ <li> 
+<a href="http://onlinelibrary.wiley.com/doi/10.1002/2014WR016028/abstract">
+Functional error modeling for uncertainty quantification in hydrogeology</a>. <br /> 
+<small>Status:  
+In Water Resources Research, 51 (2), 1050-1068, 2015.
+[<a href="https://serval.unil.ch/resource/serval:BIB_66B2D2B7F80C.P001/REF">preprint</a>]
+<br />  
+Joint work with Laureline Josset* and Ivan Lunati 
+</small>
+</li>
+<p> </p>
+ 
+<li> 
+<a href="http://www.sciencedirect.com/science/article/pii/S0309170812003016">
+Distance-based Kriging based on proxy simulations for inverse conditioning</a>. <br /> 
+<small>Status:  
+In Advances in Water Resources, 52, 275-291, 2013.
+[<a href="http://doc.rero.ch/record/32280/files/Ginsbourger_David-Distance-based_kriging_relying_on_proxy_simulations-20130612.pdf">preprint</a>]
+<br />  
+Joint work with Nicolas Durrande, Guillaume Pirot, Philippe Renard and Bastien Rosspopoff
+</small>
+</li>
+<p> </p>
+
+ <li> 
+<a href="http://onlinelibrary.wiley.com/doi/10.1029/2012GL053993/abstract">
+Changes in the odds of extreme events in the Atlantic basin depending on the position of the extratropical jet</a>. 
+<br /> 
+<small>Status:  
+In Geophysical Research Letters, 39: L22805, 6 PP., 2012.
+[<a href="http://boris.unibe.ch/17229/1/Mahlstein_et_al-2012-Geophysical_Research_Letters.pdf">preprint</a>]
+<br />  
+Joint work with Cl&eacutement Chevalier, Irina Mahlstein* and Olivia Martius
+</small>
+</li>
+<p> </p>
+
+<li> 
+<a href="http://www.ans.org/store/article-19636/">
+Using the Efficient Global Optimization Algorithm to assist Nuclear Criticality Safety Assessment</a>.
+<br /> 
+<small>Status:  
+In Nuclear Science and Engineering 175(1)pp. 1-18 
+<br />  
+Joint work with Gregory Caplin, J&eacuterome Crevel, Victor Picheny and Yann Richet*
+</small>
+</li>
+<p> </p>
+
+<li> 
+<a href="http://www.springer.com/us/book/9783642344121">
+On the Use of Kriging for Modeling High-Dimensional Noisy Observations of Computer Games</a>. 
+<br /> 
+<small>Status:  
+In Learning and Intelligent Optimization, Lecture Notes in Computer Science vol. 7219, pp. 145-159, 2012.
+[<a href="https://www.lri.fr/~hansen/proceedings/2012/LION/PDF/p93.pdf">preprint</a>]
+<br />  
+Joint work with Mike Preuss* and Tobias Wagner 
+</small>
+</li>
+<p> </p>
+
+<li> 
+<a href="http://onlinelibrary.wiley.com/book/10.1002/9781118351475">
+Stochastic versus deterministic modelling</a>.
+<br /> 
+<small>Status:  
+In Environmental Modelling: Finding Simplicity in Complexity, Wiley, 2013.
+<br />  
+Joint work with Andres Alcolea and Philippe Renard*
+</small>
+</li>
+<p> </p>
+
+<li> 
+<a href="http://inderscience.metapress.com/link.asp?id=56q136358v334709">
+Improving accuracy of failure probability estimates with Separable Monte Carlo</a>. <br /> 
+<small>Status:  
+In International Journal of Reliability and Safety, 4: 393-414, 2010.
+<br />  
+Joint work with Laurent Carraro, Rafi Haftka, and Ben Smarslok*
+</small>
+</li>
+<p> </p>
+
+<li> 
+<a href="http://www.emse.fr/~leriche/SdmGearsRobust2.pdf">
+Gears design with shape uncertainties using Monte Carlo simulations and kriging</a>. <br /> 
+<small>Status:  
+In Proceedings of the 50th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference, Palm Springs, USA, 2009.
+<br />  
+Joint work with Andr&eacute Meyer, Rodolphe Le Riche*, Nam-Ho Kim and Victor Picheny
+</small>
+</li>
+<p> </p>
+
+<li> 
+<a href="http://arc.aiaa.org/doi/abs/10.2514/6.2008-1751">Separable Monte Carlo applied to laminated composite plates reliability</a>.<br /> 
+<small>Status:  
+49th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference, Schaumburg, Ill., 2008.
+<br />  
+Joint work with Dylan Alexander, Laurent Carraro, Rafi Haftka and Ben Smarslok*
+</small>
+</li>
+<p> </p>
+
+</ul> 
