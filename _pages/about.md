@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-  <p>I am working at <a href="http://www.imsv.unibe.ch/index_eng.html"> IMSV</a>, Departement of Mathematics and Statistics, 
-      <a href="http://www.unibe.ch">University of Bern</a>, where I am heading the chair of statistical data science, serving 
-      as director of studies in statistics, and as institute co-director.   
+  <p>I am co-directing the <a href="http://www.imsv.unibe.ch/index_eng.html"> IMSV</a>, Departement of Mathematics and Statistics, 
+      <a href="http://www.unibe.ch">University of Bern</a>, where I am heading the chair of statistical data science, and serving 
+      as director of studies in statistics.   
       <!--My office (-106) is located in the "Alpenegg building", Alpeneggstrasse 22, 3012 Bern. </p> -->
       </p>
  
