@@ -14,7 +14,7 @@ I am co-directing the [Institute of Mathematical Statistics and Actuarial Scienc
 At the University of Bern, I am also a member of  
 * the [Oeschger Center for Climate Change Research](http://www.oeschger.unibe.ch/),
 * the [Center for Artificial Intelligence in Medecine](https://www.caim.unibe.ch/),
-* the [Multisdisciplinar Center for Infectious Diseases](https://www.mcid.unibe.ch/),
+* and the [Multisdisciplinary Center for Infectious Diseases](https://www.mcid.unibe.ch/).
 
 On the editorial side, I am serving as Associate Editor of
 * [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/Publications/Journals/SIAM-ASA-Journal-on-Uncertainty-Quantification-JUQ),
