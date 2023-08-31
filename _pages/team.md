@@ -2,10 +2,6 @@
 permalink: /team/
 title: "Team"
 author_profile: true
-redirect_from: 
-  - /team/
-  - /team.md
-  - /team.html
 ---
 
 ## Research team
