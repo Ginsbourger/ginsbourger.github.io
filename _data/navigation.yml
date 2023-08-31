@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "Team"
-    url: /team.md    
+    url: /team/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
