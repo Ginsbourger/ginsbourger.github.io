@@ -47,7 +47,7 @@ During her postdoc within [R. Gatto](https://www.imsv.unibe.ch/ueber_uns/persone
 
 * [Athénaïs Gautier](https://athenaisgautier.github.io/) 
 
-In her PhD in Statistics (defended May 2023), Athenais has worked on distribution fields and applications in inverse problems and stochastic optimization. She now works as a postdoc with a focus on spatial stochastic simulation in the [COSMO Lab](https://cosmo.mcgill.ca/) at McGill University.  
+In her PhD in Statistics (defended May 2023), Athénaïs has worked on distribution fields and applications in inverse problems and stochastic optimization. She now works as a postdoc with a focus on spatial stochastic simulation in the [COSMO Lab](https://cosmo.mcgill.ca/) at McGill University.  
   
 * [Cédric Travelletti](https://cedrictravelletti.github.io/)
 
