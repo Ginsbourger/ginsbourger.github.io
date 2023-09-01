@@ -6,6 +6,9 @@ main:
   - title: "Team"
     url: /team/    
 
+  - title: "Events"
+    url: /events/ 
+
 #  - title: "Teaching"
 #    url: /teaching/    
     
