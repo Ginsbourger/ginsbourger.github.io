@@ -51,7 +51,7 @@ In her PhD in Statistics (defended May 2023), Athénaïs has worked on distribut
   
 * [Cédric Travelletti](https://cedrictravelletti.github.io/)
 
-In his PhD in Statistics (defended June 2023), Cedric has worked on Bayesian estimation of implicit sets under indirect measurements. He currentl works as a research fellow in 
+In his PhD in Statistics (defended June 2023), Cédric has worked on Bayesian estimation of implicit sets under indirect measurements. He currently works as a research fellow in 
 [Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group. 
 
 * [Jose Carlos Araujo Acuña](https://www.researchgate.net/profile/Jose-Carlos-Araujo-Acuna)
@@ -60,7 +60,7 @@ During his postdoc at UniBE (jointly advised with [J. Ziegel](https://www.imsv.u
 
 * [Riccardo Turin](https://www.linkedin.com/in/riccardo-turin-22699622b/?originalSubdomain=ch) 
 
-During his short postdoc within [R. Gatto](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_gatto_riccardo/index_ger.html)'s and my team, Laetitia worked in the framework of a collaboration with [D. Stroka](https://www.bcpm.unibe.ch/about_us/members/people/prof_dr_rernat_stroka_deborah/)'s team (notably with [D. Sánchez-Taltavull](https://www.bcpm.unibe.ch/about_us/members/people/dr_snchez_taltavull_daniel/)) at the Department of BioMedical Research. He is a risk modeller with Swiss Re. 
+During his short postdoc within [R. Gatto](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_gatto_riccardo/index_ger.html)'s and my team, Riccardo worked in the framework of a collaboration with [D. Stroka](https://www.bcpm.unibe.ch/about_us/members/people/prof_dr_rernat_stroka_deborah/)'s team (notably with [D. Sánchez-Taltavull](https://www.bcpm.unibe.ch/about_us/members/people/dr_snchez_taltavull_daniel/)) at the Department of BioMedical Research. He now works as a risk modeller with Swiss Re. 
  
 * [Anna Broccard](https://www.linkedin.com/in/anna-broccard/?originalSubdomain=ch) 
 
@@ -68,7 +68,7 @@ In her master thesis in statistics and data science at UniBE (co-mentored with [
 
 * [Cédric Metraux](https://www.linkedin.com/in/c%C3%A9dric-m%C3%A9traux-2894bb147/?originalSubdomain=ch)
 
-In the thesis of his [Master of Advanced Studies](https://www.math-stat.unibe.ch/weiterbildung/cas_das_mas/index_ger.html) in statistical data science, Cedric worked on linear inverse problems (co-mentored with C. Travelletti). He is still heading a group on Geographic Information Systems at [Swisstopo](https://www.swisstopo.admin.ch/). 
+In the thesis of his [Master of Advanced Studies](https://www.math-stat.unibe.ch/weiterbildung/cas_das_mas/index_ger.html) in statistical data science, Cédric worked on linear inverse problems (co-mentored with C. Travelletti). He is still heading a group on Geographic Information Systems at [Swisstopo](https://www.swisstopo.admin.ch/). 
 
 * Cedric Schärer
 
@@ -108,7 +108,7 @@ He is now Lead Data Scientist at Inawisdom (UK).
 
 * [Tipaluck (Mint) Krityakierne](https://science.mahidol.ac.th/expertise/search.php?q=Tipaluck%20Krityakierne) 
 
-During her postdoc years at UniBE and Idiap, Mint has been worked on surrogate-based optimization and on extremes. 
+During her postdoc years at UniBE and Idiap, Mint has worked on surrogate-based optimization and on extremes. 
 She is now Assistant Professor at Mahidol University (Bangkok, Thailand). 
 
 * [Mickael Binois](https://sites.google.com/site/mickaelbinoishomepage/home) 
@@ -137,4 +137,4 @@ He is now working in a senior role at the Autorité des Marchés Financiers in F
 * [Nicolas Durrande](https://sites.google.com/site/nicolasdurrandehomepage/) 
 
 In his PhD at Ecole des Mines de Saint-Etienne (2011), Nicolas worked on additive and related Gaussian field models. 
-His thesis (dir: [L. Carraro](https://fr.wikipedia.org/wiki/Laurent_Carraro), [R. Le Riche](https://www.emse.fr/~leriche/)) was co-advised with [O. Roustant](https://olivier-roustant.fr/). He is an Assistant Professor at Mines de Saint-Etienne (on leave, with Monumo.io in Cambridge, UK).  
+His thesis (dir: [L. Carraro](https://fr.wikipedia.org/wiki/Laurent_Carraro), [R. Le Riche](https://www.emse.fr/~leriche/)) was co-advised with [O. Roustant](https://olivier-roustant.fr/). He is an Assistant Professor at Mines de Saint-Etienne (on leave, with Monumo in Cambridge, UK).  
