@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am heading the Chair of Statistical Data Science and serving as Director of Studies in Statistics at the [University of Bern](http://www.unibe.ch), where I am co-directing the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html).  My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerand. 
+I am heading the Chair of Statistical Data Science and serving as Director of Studies in Statistics at the [University of Bern](http://www.unibe.ch), where I am co-directing the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html).  My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
 
 At the University of Bern, I am also a member of  
 * the [Oeschger Center for Climate Change Research](http://www.oeschger.unibe.ch/),
 * the [Center for Artificial Intelligence in Medecine](https://www.caim.unibe.ch/),
-* and the [Multisdisciplinary Center for Infectious Diseases](https://www.mcid.unibe.ch/).
+* and the [Multidisciplinary Center for Infectious Diseases](https://www.mcid.unibe.ch/).
 
 On the editorial side, I am serving as Associate Editor of
 * [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/Publications/Journals/SIAM-ASA-Journal-on-Uncertainty-Quantification-JUQ),
@@ -22,9 +22,9 @@ On the editorial side, I am serving as Associate Editor of
 and regularly as Area Chair / Meta-Reviewer for major Machine Learning conferences (e.g., [ICML 2023](https://icml.cc/Conferences/2023), [AISTATS 2024](http://aistats.org/aistats2024/)).
 
 A significant part of my research deals with random field (including in particular Gaussian Process) modelling and adaptive design 
-of experiments, with a focus on Bayesian global optimization and related topics such as Bayesian set estimation. Further interests include design and estimation of covariance kernels and parameters,  as well as connections between Kriging and functional analysis approaches (notably the theory or Reproducing Kernel Hilbert Spaces). 
+of experiments, with a focus on Bayesian global optimization and related topics such as Bayesian set estimation. Further interests include design and estimation of covariance kernels and parameters,  as well as the theory of Reproducing Kernel Hilbert Spaces. 
 From the real-world application side, I have been working with a number of colleagues both from engineering 
-and from geosciences. In recent years, my team and I have started collaborations with climate scientists, 
+and from geosciences. In recent years, my team and I have collaborated with climate scientists, 
 and now also with colleagues from medecine.     
  
 I defended my PhD in Applied Mathematics at the [Ecole des Mines de Saint-Etienne](http://www.mines-stetienne.fr/en/) in 2009. 
