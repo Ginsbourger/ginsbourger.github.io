@@ -41,7 +41,7 @@ Now primarily a research fellow at [FHNW](https://www.fhnw.ch/en/about-fhnw/scho
 
 ## Past team members and alumni 
 
-* [Laetitia Columbani](https://laetitia-colombani.fr/index-en.html) 
+* [Laetitia Colombani](https://laetitia-colombani.fr/index-en.html) 
 
 During her postdoc within [R. Gatto](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_gatto_riccardo/index_ger.html)'s and my team, Laetitia worked in the framework of a collaboration with [D. Stroka](https://www.bcpm.unibe.ch/about_us/members/people/prof_dr_rernat_stroka_deborah/)'s team (notably with [D. Sánchez-Taltavull](https://www.bcpm.unibe.ch/about_us/members/people/dr_snchez_taltavull_daniel/)) at the Department of BioMedical Research. She now started a postdoc in [S. Méléard](https://sites.google.com/view/sylvie-meleard/accueil)'s team at Ecole Polytechnique. 
 
@@ -58,13 +58,17 @@ In his PhD in Statistics (defended June 2023), Cédric has worked on Bayesian es
 
 During his postdoc at UniBE (jointly advised with [J. Ziegel](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_ziegel_johanna/index_ger.html), collaboration with [Meteoswiss](https://www.meteoswiss.admin.ch/#tab=forecast-map)), Jose has worked on the project with Meteoswiss "Verification of Weather Warnings”.
 
+* [Noemie Leimbach](https://www.linkedin.com/in/noemie-leimbach-74aa63268/) 
+
+In her master thesis in statistics and data science at UniBE (co-mentored with [F. Guignard](https://www.imsv.unibe.ch/ueber_uns/personen/dr_guignard_fabian/index_ger.html) ), Noemie worked on distance-based linear models. She now works as an actuary at the health insurance company Visana. 
+
 * [Riccardo Turin](https://www.linkedin.com/in/riccardo-turin-22699622b/?originalSubdomain=ch) 
 
-During his short postdoc within [R. Gatto](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_gatto_riccardo/index_ger.html)'s and my team, Riccardo worked in the framework of a collaboration with [D. Stroka](https://www.bcpm.unibe.ch/about_us/members/people/prof_dr_rernat_stroka_deborah/)'s team (notably with [D. Sánchez-Taltavull](https://www.bcpm.unibe.ch/about_us/members/people/dr_snchez_taltavull_daniel/)) at the Department of BioMedical Research. He now works as a risk modeller with Swiss Re. 
- 
+During his short postdoc within [R. Gatto](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_gatto_riccardo/index_ger.html)'s and my team, Riccardo worked in the framework of a collaboration with [D. Stroka](https://www.bcpm.unibe.ch/about_us/members/people/prof_dr_rernat_stroka_deborah/)'s team (notably with [D. Sánchez-Taltavull](https://www.bcpm.unibe.ch/about_us/members/people/dr_snchez_taltavull_daniel/)) at the Department of BioMedical Research. He now works as a risk modeller with Swiss Re.  
+
 * [Anna Broccard](https://www.linkedin.com/in/anna-broccard/?originalSubdomain=ch) 
 
-In her master thesis in statistics and data science at UniBE (co-mentored with [A. Gautier](https://athenaisgautier.github.io/) ), Anna has work on kernel methods and GP modelling for molecules. After having worked at IMSV, she joined the Swiss railways (SBB) as a Career Starter Data Science. 
+In her master thesis in statistics and data science at UniBE (co-mentored with [A. Gautier](https://athenaisgautier.github.io/) ), Anna worked on kernel methods and GP modelling for molecules. After having worked at IMSV, she joined the Swiss railways (SBB) as a Career Starter Data Science. 
 
 * [Cédric Metraux](https://www.linkedin.com/in/c%C3%A9dric-m%C3%A9traux-2894bb147/?originalSubdomain=ch)
 
