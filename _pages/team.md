@@ -43,7 +43,7 @@ Now primarily a research fellow at [FHNW](https://www.fhnw.ch/en/about-fhnw/scho
 
 * [Adriana Clavijo Daza](https://www.linkedin.com/in/adriana-clavijo/)
 
-In her master thesis in statistics and data science at UniBE (co-mentored with [S. Lozza-Fiacco](https://www.linkedin.com/in/serena-lozza-fiacco-111568148/?originalSubdomain=ch)), Adriana has worked in categorical sequence analysis with optimal matching, with an application to data from the 'Women 40+ Healthy Aging Study'. Also, she has been an intern at the Swiss Group for Clinical Cancer Research.
+In her master thesis in statistics and data science at UniBE (co-mentored with [S. Lozza-Fiacco](https://www.linkedin.com/in/serena-lozza-fiacco-111568148/?originalSubdomain=ch)), Adriana has worked in categorical sequence analysis with optimal matching, with an application to data from the 'Women 40+ Healthy Aging Study'. Also, she has been working as an intern at the Swiss Group for Clinical Cancer Research.
 
 * [Laetitia Colombani](https://laetitia-colombani.fr/index-en.html) 
 
