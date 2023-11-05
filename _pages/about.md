@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am heading the Chair of Statistical Data Science and serving as Director of Studies in Statistics at the [University of Bern](http://www.unibe.ch), where I am co-directing the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html).  My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
+I am heading the Uncertainty Quantification and Spatial Statistics Group and serving as Director of Studies in Statistics at the [University of Bern](http://www.unibe.ch), where I am co-directing the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html).  My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
 
 At the University of Bern, I am also a member of  
 * the [Oeschger Center for Climate Change Research](http://www.oeschger.unibe.ch/),
@@ -34,4 +34,4 @@ From 2008/2009, I worked as an assistant and a scientific collaborator, respecti
 
 From September 2015 to May 2020, I worked mainly as a permanent senior researcher at [Idiap Research Institute](http://www.idiap.ch) where I founded and headed the Uncertainty Quantification and Optimal Design group. During my last two academic years at Idiap, I lectured at [Ecole Polytechnique Federale de Lausanne](https://www.epfl.ch/en/) 
 and participated to the [Master in Artificial Intelligence](https://master-ai.ch/) offered by [Unidistance](https://distanceuniversity.ch/artificial-intelligence/master/) and Idiap. I have also held since 2018 a titular professorship at the University of Bern, where 
-I have been employed in several settings between my habilitation in 2014 and my current employment (from August 2021) as a Professor Extraordinarius. 
+I have been employed in several settings between my habilitation in 2014 and my current employment (from August 2021) as a Professor Extraordinarius of Statistical Data Science. 
