@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "David Ginsbourger"
 title_separator          : "-"
 name                     : &name "Prof. Dr. David Ginsbourger"
-description              : &description "Chair of Statistical Data Science"
+description              : &description "Statistical Data Science"
 url                      : "https://ginsbourger.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ginsbourger"
@@ -82,7 +82,7 @@ analytics:
 author: 
   name             : "Prof. Dr. David Ginsbourger"
   avatar           : "David_Ginsbourger.jpg"
-  bio              : "Chair of Statistical Data Science"
+  bio              : "Statistical Data Science"
   location         : "IMSV, University of Bern"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=qfSOpvUAAAAJ&hl=en&oi=ao"
