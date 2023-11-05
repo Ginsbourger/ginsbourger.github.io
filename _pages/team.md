@@ -41,6 +41,10 @@ Now primarily a research fellow at [FHNW](https://www.fhnw.ch/en/about-fhnw/scho
 
 ## Past team members and alumni 
 
+* [Adriana Clavijo Daza](https://www.linkedin.com/in/adriana-clavijo/)
+
+In her master thesis in statistics and data science at UniBE (co-mentored with [S. Lozza-Fiacco](https://www.linkedin.com/in/serena-lozza-fiacco-111568148/?originalSubdomain=ch)), Adriana has worked in categorical sequence analysis with optimal matching, with an application to data from the 'Women 40+ Healthy Aging Study'. Also, she has been an intern at the Swiss Group for Clinical Cancer Research.
+
 * [Laetitia Colombani](https://laetitia-colombani.fr/index-en.html) 
 
 During her postdoc within [R. Gatto](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_gatto_riccardo/index_ger.html)'s and my team, Laetitia worked in the framework of a collaboration with [D. Stroka](https://www.bcpm.unibe.ch/about_us/members/people/prof_dr_rernat_stroka_deborah/)'s team (notably with [D. Sánchez-Taltavull](https://www.bcpm.unibe.ch/about_us/members/people/dr_snchez_taltavull_daniel/)) at the Department of BioMedical Research. She now started a postdoc in [S. Méléard](https://sites.google.com/view/sylvie-meleard/accueil)'s team at Ecole Polytechnique. 
@@ -66,9 +70,17 @@ In her master thesis in statistics and data science at UniBE (co-mentored with [
 
 During his short postdoc within [R. Gatto](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_gatto_riccardo/index_ger.html)'s and my team, Riccardo worked in the framework of a collaboration with [D. Stroka](https://www.bcpm.unibe.ch/about_us/members/people/prof_dr_rernat_stroka_deborah/)'s team (notably with [D. Sánchez-Taltavull](https://www.bcpm.unibe.ch/about_us/members/people/dr_snchez_taltavull_daniel/)) at the Department of BioMedical Research. He now works as a risk modeller with Swiss Re.  
 
+* [Alberto Terranova](https://www.linkedin.com/in/alberto-terranova/)
+
+In his master thesis in statistics and data science at UniBE (co-mentored with [C. Travelletti](https://cedrictravelletti.github.io/), in collaboration with [S. Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html) and team), Alberto worked on ranking different background error covariance estimations in paleoclimate data assimilation. After having worked at IMSV, he joined Swisscom for an internship in BI. 
+
 * [Anna Broccard](https://www.linkedin.com/in/anna-broccard/?originalSubdomain=ch) 
 
 In her master thesis in statistics and data science at UniBE (co-mentored with [A. Gautier](https://athenaisgautier.github.io/) ), Anna worked on kernel methods and GP modelling for molecules. After having worked at IMSV, she joined the Swiss railways (SBB) as a Career Starter Data Science. 
+
+* [Belinda Trachsel](https://www.linkedin.com/in/anna-broccard/?originalSubdomain=ch) 
+
+In her master thesis in statistics and data science at UniBE (co-mentored with [M. Vock](https://www.imsv.unibe.ch/ueber_uns/personen/dr_vock_michael/index_ger.html) and in collaboration with [S. Hayoz](https://scholar.google.ch/citations?user=RYTwcV0AAAAJ&hl=de) from the [Swiss Group of Clinical Cancer Research](https://www.sakk.ch/en)), Belinda worked on comparing probabilistic classifiers via multiple-fold scoring with application to radio-oncological data. After having worked at IMSV, she joined the railway company BLS as a Business Analyst. 
 
 * [Cédric Metraux](https://www.linkedin.com/in/c%C3%A9dric-m%C3%A9traux-2894bb147/?originalSubdomain=ch)
 
