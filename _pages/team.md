@@ -4,12 +4,7 @@ title: "Team"
 author_profile: true
 ---
 
-## Research team
-
-* [Sam Allen](https://www.imsv.unibe.ch/about_us/staff/dr_allen_sam/index_eng.html) 
-
-Postdoc at UniBE jointly advised with [J. Ziegel](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_ziegel_johanna/index_ger.html) (in collab. with [O. Romppainen-Martius](https://www.geography.unibe.ch/about_us/staff/prof_dr_romppainen_martius_olivia/index_eng.html), [P. Horton](https://www.geography.unibe.ch/ueber_uns/personen/dr_horton_pascal/index_ger.html), and [Meteoswiss](https://www.meteoswiss.admin.ch/#tab=forecast-map)). 
-Sam is notably working on Ensemble Postprocessing for High-Impact Events. 
+## Research team 
 
 * [Antoine Faul](https://www.imsv.unibe.ch/about_us/staff/faul_antoine_lo/index_eng.html)
 
@@ -17,8 +12,8 @@ PhD student at UniBE jointly advised with [B. Spycher](https://www.ispm.unibe.ch
 
 * [Lea Friedli](https://leafriedli.com/)
 
-PhD student in environmental sciences at the University of Lausanne. 
-Lea is working towards a PhD (UniL director: [N. Linde](https://wp.unil.ch/linde-hydrogeophysics/home/)) on inversion and Markov Chain Monte Carlo acceleration schemes.
+After her UniL PhD in environmental sciences in co-supervision (main supervisor: [N. Linde](https://wp.unil.ch/linde-hydrogeophysics/home/)), 
+Lea reinforced her presence in the team as a postdoc in statistical data science for the sciences. 
 
 * [Fabian Guignard](https://www.imsv.unibe.ch/ueber_uns/personen/dr_guignard_fabian/index_ger.html)
 
@@ -33,6 +28,10 @@ Assistant at IMSV. With a background in mathematical physics, Lorenz is now stud
 PhD student at the University of Neuchatel. 
 Eliane is working towards a PhD (UniNE director: [K. Stoffel](https://www.unine.ch/kilian.stoffel)) on the use of generative models for inverse problems. 
 
+* [Tim Steinert](https://www.imsv.unibe.ch/ueber_uns/personen/steinert_tim_michael/index_ger.html)
+
+Tim is working towards a PhD in statistics with focus on kernel design and inference in the framework of a collaborative project on "perception in statistics and econometrics". 
+
 * [Patric Wyss](https://www.ispm.unibe.ch/about_us/staff/wyss_patric/index_eng.html) 
 
 Now primarily a research fellow at [FHNW](https://www.fhnw.ch/en/about-fhnw/schools/school-of-applied-psychology/institute-of-humans-in-complex-systems), Patric continues working part time with [B. Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html), me and others in the framework of the Mutidisciplinary Center for Infectious Diseases. 
@@ -40,6 +39,12 @@ Now primarily a research fellow at [FHNW](https://www.fhnw.ch/en/about-fhnw/scho
 **Important Note**: with Antoine, Patric, Ben and others from joint projects with [Petra Stute](http://www.frauenheilkunde.insel.ch/de/ueber-uns/team/details/person/detail/petra-stute)'s team, we also enjoy statistical interactions with our colleagues [Anja Mühlemann](https://www.imsv.unibe.ch/ueber_uns/personen/dr_muehlemann_anja/index_ger.html) and [Philip Stange](https://www.imsv.unibe.ch/about_us/staff/stange_philip_arndt/index_eng.html) who are regularly participating in our collaboration via statistical consultancy. 
 
 ## Past team members and alumni 
+
+
+* [Sam Allen](https://www.imsv.unibe.ch/about_us/staff/dr_allen_sam/index_eng.html) 
+
+During his postdoc at at UniBE jointly advised with [J. Ziegel](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_ziegel_johanna/index_ger.html) (in collab. with [O. Romppainen-Martius](https://www.geography.unibe.ch/about_us/staff/prof_dr_romppainen_martius_olivia/index_eng.html), [P. Horton](https://www.geography.unibe.ch/ueber_uns/personen/dr_horton_pascal/index_ger.html), and [Meteoswiss](https://www.meteoswiss.admin.ch/#tab=forecast-map)). 
+Sam was notably working on Ensemble Postprocessing for High-Impact Events.
 
 * [Adriana Clavijo Daza](https://www.linkedin.com/in/adriana-clavijo/)
 
@@ -64,7 +69,7 @@ During his postdoc at UniBE (jointly advised with [J. Ziegel](https://www.imsv.u
 
 * [Noemie Leimbach](https://www.linkedin.com/in/noemie-leimbach-74aa63268/) 
 
-In her master thesis in statistics and data science at UniBE (co-mentored with [F. Guignard](https://www.imsv.unibe.ch/ueber_uns/personen/dr_guignard_fabian/index_ger.html) ), Noemie worked on distance-based linear models. She now works as an actuary at the health insurance company Visana. 
+In her master thesis in statistics and data science at UniBE (co-mentored with [F. Guignard](https://www.imsv.unibe.ch/ueber_uns/personen/dr_guignard_fabian/index_ger.html)), Noemie worked on distance-based linear models. She now works as an actuary at the health insurance company Visana. 
 
 * [Riccardo Turin](https://www.linkedin.com/in/riccardo-turin-22699622b/?originalSubdomain=ch) 
 
@@ -76,7 +81,7 @@ In his master thesis in statistics and data science at UniBE (co-mentored with [
 
 * [Anna Broccard](https://www.linkedin.com/in/anna-broccard/?originalSubdomain=ch) 
 
-In her master thesis in statistics and data science at UniBE (co-mentored with [A. Gautier](https://athenaisgautier.github.io/) ), Anna worked on kernel methods and GP modelling for molecules. After having worked at IMSV, she joined the Swiss railways (SBB) as a Career Starter Data Science. 
+In her master thesis in statistics and data science at UniBE (co-mentored with [A. Gautier](https://athenaisgautier.github.io/)), Anna worked on kernel methods and GP modelling for molecules. After having worked at IMSV, she joined the Swiss railways (SBB) as a Career Starter Data Science. 
 
 * [Belinda Trachsel](https://www.linkedin.com/in/anna-broccard/?originalSubdomain=ch) 
 

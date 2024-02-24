@@ -8,9 +8,14 @@ Below is a list of selected events I will be or was involved in, in one way or a
 
 ## Forthcoming 
 
+* Organiser (with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), 
+[Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) and [Richard Wilkinson](https://rich-d-wilkinson.github.io/)) 
+of the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
+to be held from May 6th to August 29th 2025 at [Isaac Newton Institute](https://www.newton.ac.uk/), Cambridge, UK. 
+
 * Keynote speaker at the [15th International Conference on Geostatistics for Environmental Applications](https://2024.geoenvia.org/) (GeoEnv 2024, Chania, Greece, June 19-21)
 
-
+* Invited speaker at the [Practical Data Assimilation and Uncertainty Quantification Workshop](https://pauq.sciencesconf.org/) (PAUQ, Orleans, France, May 21-23, 2024)
 
 ## Past events from the current decade (work in progress, filling a gap of missing news between 2019 and 2023)
 ### 2023
