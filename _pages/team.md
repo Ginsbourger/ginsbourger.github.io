@@ -53,7 +53,7 @@ After his PhD in biomedical sciences (jointly advised with A. Abdulkadir and S. 
 [B. Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html) in the framework 
 of a project funded by the Mutidisciplinary Center for Infectious Diseases. 
 Now primarily a research fellow at [FHNW](https://www.fhnw.ch/en/about-fhnw/schools/school-of-applied-psychology/institute-of-humans-in-complex-systems), 
-he continues working with us in the framework of the latter project. 
+he also continues contributing to the latter project. 
 
 
 * [Sam Allen](https://www.imsv.unibe.ch/about_us/staff/dr_allen_sam/index_eng.html) 
