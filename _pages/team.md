@@ -15,13 +15,10 @@ PhD student at UniBE jointly advised with [B. Spycher](https://www.ispm.unibe.ch
 After her UniL PhD in environmental sciences in co-supervision (main supervisor: [N. Linde](https://wp.unil.ch/linde-hydrogeophysics/home/)), 
 Lea reinforced her presence in the team as a postdoc in statistical data science for the sciences. 
 
-* [Fabian Guignard](https://www.imsv.unibe.ch/ueber_uns/personen/dr_guignard_fabian/index_ger.html)
-
-Fabian just finished a postdoc in my team in collaboration with colleagues from [Agroscope](https://www.agroscope.admin.ch/agroscope/en/home/about-us/locations-contacts/changins.html) (Changins). He was selected for a UniBE [Venture Fellowship](https://www.uniaktuell.unibe.ch/2023/venture_fellowships_enter_the_second_round/index_eng.html) around artificial intelligence for agriculture and is keeping his affiliation with us for this new endeavour. 
-
 * [Lorenz Hilfiker](https://www.imsv.unibe.ch/about_us/staff/dr_hilfiker_lorenz_damian/index_eng.html)
 
-Assistant at IMSV. With a background in mathematical physics, Lorenz is now studying statistics and data science while working part time in research, teaching, and consultancy. 
+With a background in mathematical physics, Lorenz just finished studying statistics and data science while working part time in research, teaching, and consultancy. He is now employed in 
+[Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group but still involved in activities of our team.  
 
 * [Eliane Maalouf](https://www.unine.ch/imi/en/home/equipe/eliane-maalouf.html)
 
@@ -32,13 +29,31 @@ Eliane is working towards a PhD (UniNE director: [K. Stoffel](https://www.unine.
 
 Tim is working towards a PhD in statistics with focus on kernel design and inference in the framework of a collaborative project on "perception in statistics and econometrics". 
 
-* [Patric Wyss](https://www.ispm.unibe.ch/about_us/staff/wyss_patric/index_eng.html) 
-
-Now primarily a research fellow at [FHNW](https://www.fhnw.ch/en/about-fhnw/schools/school-of-applied-psychology/institute-of-humans-in-complex-systems), Patric continues working part time with [B. Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html), me and others in the framework of the Mutidisciplinary Center for Infectious Diseases. 
-
-**Important Note**: with Antoine, Patric, Ben and others from joint projects with [Petra Stute](http://www.frauenheilkunde.insel.ch/de/ueber-uns/team/details/person/detail/petra-stute)'s team, we also enjoy statistical interactions with our colleagues [Anja Mühlemann](https://www.imsv.unibe.ch/ueber_uns/personen/dr_muehlemann_anja/index_ger.html) and [Philip Stange](https://www.imsv.unibe.ch/about_us/staff/stange_philip_arndt/index_eng.html) who are regularly participating in our collaboration via statistical consultancy. 
+**Important Note**: with Antoine, Ben and others from joint projects with [Petra Stute](http://www.frauenheilkunde.insel.ch/de/ueber-uns/team/details/person/detail/petra-stute)'s team, 
+we also enjoy statistical interactions with our colleagues [Anja Mühlemann](https://www.imsv.unibe.ch/ueber_uns/personen/dr_muehlemann_anja/index_ger.html), 
+[Philip Stange](https://www.imsv.unibe.ch/about_us/staff/stange_philip_arndt/index_eng.html), and [Patric Wyss](https://www.ispm.unibe.ch/about_us/staff/wyss_patric/index_eng.html) who 
+are participating in our collaboration.   
 
 ## Past team members and alumni 
+
+* [Claire Descombes](https://www.linkedin.com/in/claire-descombes-a53b5a1b1/?locale=en_US) 
+
+In her master thesis in statistics and data science at UniBE (co-supervised with [J. Riou](https://www.unisante.ch/fr/formation-recherche/annuaire-chercheurs/chercheur/riou-julien)), 
+Claire worked on probabilistic state-space models for joint inference from SEIR(D) ODEs and public health data. 
+
+
+* [Fabian Guignard](https://www.imsv.unibe.ch/ueber_uns/personen/dr_guignard_fabian/index_ger.html)
+
+During his postdoc and UniBE [Venture Fellowship](https://www.uniaktuell.unibe.ch/2023/venture_fellowships_enter_the_second_round/index_eng.html), 
+he notably collaborated with colleagues from [Agroscope](https://www.agroscope.admin.ch/agroscope/en/home/about-us/locations-contacts/changins.html) (Changins) around artificial intelligence for agriculture. 
+
+* [Patric Wyss](https://www.ispm.unibe.ch/about_us/staff/wyss_patric/index_eng.html) 
+
+After his PhD in biomedical sciences (jointly advised with A. Abdulkadir and S. Klöppel), Patric joined the group of 
+[B. Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html) in the framework 
+of a project funded by the Mutidisciplinary Center for Infectious Diseases. 
+Now primarily a research fellow at [FHNW](https://www.fhnw.ch/en/about-fhnw/schools/school-of-applied-psychology/institute-of-humans-in-complex-systems), 
+he continues working with us in the framework of the latter project. 
 
 
 * [Sam Allen](https://www.imsv.unibe.ch/about_us/staff/dr_allen_sam/index_eng.html) 
@@ -60,8 +75,7 @@ In her PhD in Statistics (defended May 2023), Athénaïs has worked on distribut
   
 * [Cédric Travelletti](https://cedrictravelletti.github.io/)
 
-In his PhD in Statistics (defended June 2023), Cédric has worked on Bayesian estimation of implicit sets under indirect measurements. He currently works as a research fellow in 
-[Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group. 
+In his PhD in Statistics (defended June 2023), Cédric has worked on Bayesian estimation of implicit sets under indirect measurements. He now works as a scientific collaborator at [HES-SO Valais](https://www.hevs.ch/fr). 
 
 * [Jose Carlos Araujo Acuña](https://www.researchgate.net/profile/Jose-Carlos-Araujo-Acuna)
 
