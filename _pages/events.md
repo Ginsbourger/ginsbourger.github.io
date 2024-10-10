@@ -13,11 +13,26 @@ Below is a list of selected events I will be or was involved in, in one way or a
 of the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
 to be held from May 6th to August 29th 2025 at [Isaac Newton Institute](https://www.newton.ac.uk/), Cambridge, UK. 
 
-* Keynote speaker at the [15th International Conference on Geostatistics for Environmental Applications](https://2024.geoenvia.org/) (GeoEnv 2024, Chania, Greece, June 19-21)
+* Organizer (with [Mihai Anitescu](https://web.cels.anl.gov/~anitescu/), 
+[Fred Hickernell](https://www.iit.edu/directory/people/fred-hickernell), 
+[Shiwei Lan](https://search.asu.edu/profile/3508708), [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/), 
+and [Dave Woods](https://www.southampton.ac.uk/people/5wz6hb/professor-dave-woods)) of the workshop 
+[Kernel Methods in Uncertainty Quantification and Experimental Design](https://www.imsi.institute/activities/kernel-methods-in-uncertainty-quantification-and-experimental-design/)
+to take place from March 31 to April 4, 2025 at the [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute/), Chicago, USA.  
+
+
+## Past events from the current decade (work in progress, filling a gap of missing news between 2019 and 2024)
+
+### 2024 
+
+* Invited speaker at the [Gaussian Process Summer School 2024](https://gpss.cc/gpss24/) (GPSS, Manchester, UK, September 9-12, 2024)
+
+* Keynote speaker at the [15th International Conference on Geostatistics for Environmental Applications](https://2024.geoenvia.org/) (GeoEnv 2024, Chania, Greece, June 19-21, 2024)
 
 * Invited speaker at the [Practical Data Assimilation and Uncertainty Quantification Workshop](https://pauq.sciencesconf.org/) (PAUQ, Orleans, France, May 21-23, 2024)
 
-## Past events from the current decade (work in progress, filling a gap of missing news between 2019 and 2023)
+* Conference co-chair (with [Guillaume Obozinski](https://www.datascience.ch/people/guillaume-obozinski)) of [Data Science for the Sciences](https://www.ds4s.ch/) (Bern, April 11-12, 2024)
+
 ### 2023
 
 * Short (too short) participation on July 17 in the [Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2023](https://www.ellis.eng.cam.ac.uk/summer-school/)
