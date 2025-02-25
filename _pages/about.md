@@ -19,7 +19,7 @@ and [Richard Wilkinson](https://rich-d-wilkinson.github.io/).
 
 In 2025, I joined the [Swiss Academy of Sciences](https://scnat.ch/en) as an elected member, currently being part of the board of the [Platform Mathematics, Astronomy and Physics](https://map.scnat.ch/en). 
 I am also an elected member of the [International Statistical Institute](https://isi-web.org/) (2023-), a member of the [ELLIS Society](https://ellis.eu/) (2024-), and have been a member of the 
-[Society for Industrial and Applied Mathematics](https://www.siam.org/), the [Swiss Mathematical Society](https://www.math.ch/, and the [International Association of Mathematical Geology](https://iamg.org/) for a number of years. 
+[Society for Industrial and Applied Mathematics](https://www.siam.org/), the [Swiss Mathematical Society](https://www.math.ch/), and the [International Association of Mathematical Geology](https://iamg.org/) for a number of years. 
 
 
 At the University of Bern, I am also a member of  
