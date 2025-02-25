@@ -17,6 +17,11 @@ where I am organizing the programme [Representing, calibrating & leveraging pred
 together with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), [Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) 
 and [Richard Wilkinson](https://rich-d-wilkinson.github.io/). 
 
+In 2025, I joined the [Swiss Academy of Sciences](https://scnat.ch/en) as an elected member, currently being part of the board of the [Platform Mathematics, Astronomy and Physics](https://map.scnat.ch/en). 
+I am also an elected member of the [International Statistical Institute](https://isi-web.org/) (2023-), a member of the [ELLIS Society](https://ellis.eu/) (2024-), and have been a member of the 
+[Society for Industrial and Applied Mathematics](https://www.siam.org/), the [Swiss Mathematical Society](https://www.math.ch/, and the [International Association of Mathematical Geology](https://iamg.org/) for a number of years. 
+
+
 At the University of Bern, I am also a member of  
 * the [Oeschger Center for Climate Change Research](http://www.oeschger.unibe.ch/),
 * the [Center for Artificial Intelligence in Medecine](https://www.caim.unibe.ch/),
