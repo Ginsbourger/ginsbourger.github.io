@@ -8,8 +8,8 @@ author_profile: true
 
 * [Jasmin Christen](https://www.imsv.unibe.ch/ueber_uns/personen/christen_jasmin/index_ger.html)
 
-In her master thesis in statistics and data science at UniBE (co-mentored with [L. Friedli](https://leafriedli.com/)), Jasmin worked on Gaussian Process models for interval-valued data with
-applications in chemical space exploration. She is now working as scientific assistant in our team in collaboration with the [Reymond Research Group](https://gdb.unibe.ch/).  
+In her master thesis (co-mentored with [L. Friedli](https://leafriedli.com/)), Jasmin worked on Gaussian Process models for interval-valued data with
+applications in chemical space exploration. She is now working at IMSV as scientific assistant, in collaboration with the [Reymond Research Group](https://gdb.unibe.ch/).  
 
 * [Antoine Faul](https://www.imsv.unibe.ch/about_us/staff/faul_antoine_lo/index_eng.html)
 
