@@ -6,18 +6,18 @@ author_profile: true
 
 ## Research team 
 
+* [Jasmin Christen](https://www.imsv.unibe.ch/ueber_uns/personen/christen_jasmin/index_ger.html)
+
+In her master thesis in statistics and data science at UniBE (co-mentored with [L. Friedli](https://leafriedli.com/)), Jasmin worked on Gaussian Process models for interval-valued data with
+applications in chemical space exploration. She is now working as scientific assistant in our team in collaboration with the [Reymond Research Group](https://gdb.unibe.ch/).  
+
 * [Antoine Faul](https://www.imsv.unibe.ch/about_us/staff/faul_antoine_lo/index_eng.html)
 
 PhD student at UniBE jointly advised with [B. Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html), with a focus is on statistical modelling for personalized medicine in the framework of the Mutidisciplinary Center for Infectious Diseases. 
 
-* [Lea Friedli](https://leafriedli.com/)
-
-After her UniL PhD in environmental sciences in co-supervision (main supervisor: [N. Linde](https://wp.unil.ch/linde-hydrogeophysics/home/)), 
-Lea reinforced her presence in the team as a postdoc in statistical data science for the sciences. 
-
 * [Lorenz Hilfiker](https://www.imsv.unibe.ch/about_us/staff/dr_hilfiker_lorenz_damian/index_eng.html)
 
-With a background in mathematical physics, Lorenz just finished studying statistics and data science while working part time in research, teaching, and consultancy. He is now employed in 
+With a background in mathematical physics, Lorenz recently finished studying statistics and data science while working part time in research, teaching, and consultancy. He is now employed in 
 [Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group but still involved in activities of our team.  
 
 * [Eliane Maalouf](https://www.unine.ch/imi/en/home/equipe/eliane-maalouf.html)
@@ -36,11 +36,15 @@ are participating in our collaboration.
 
 ## Past team members and alumni 
 
+* [Lea Friedli](https://leafriedli.com/)
+
+After her UniL PhD in environmental sciences in co-supervision (main supervisor: [N. Linde](https://wp.unil.ch/linde-hydrogeophysics/home/)), 
+Lea reinforced her presence in the team as a postdoc in statistical data science for the sciences. 
+
 * [Claire Descombes](https://www.linkedin.com/in/claire-descombes-a53b5a1b1/?locale=en_US) 
 
 In her master thesis in statistics and data science at UniBE (co-supervised with [J. Riou](https://www.unisante.ch/fr/formation-recherche/annuaire-chercheurs/chercheur/riou-julien)), 
-Claire worked on probabilistic state-space models for joint inference from SEIR(D) ODEs and public health data. 
-
+Claire worked on probabilistic state-space models for joint inference from SEIR(D) ODEs and public health data. She is now working as scientific collaborator a [Inselspital](https://neurochirurgie.insel.ch/forschung/detail/claire-descombes).
 
 * [Fabian Guignard](https://www.imsv.unibe.ch/ueber_uns/personen/dr_guignard_fabian/index_ger.html)
 
@@ -65,13 +69,14 @@ Sam was notably working on Ensemble Postprocessing for High-Impact Events.
 
 In her master thesis in statistics and data science at UniBE (co-mentored with [S. Lozza-Fiacco](https://www.linkedin.com/in/serena-lozza-fiacco-111568148/?originalSubdomain=ch)), Adriana has worked in categorical sequence analysis with optimal matching, with an application to data from the 'Women 40+ Healthy Aging Study'. Also, she has been working as an intern at the Swiss Group for Clinical Cancer Research.
 
-* [Laetitia Colombani](https://laetitia-colombani.fr/index-en.html) 
+* [Laetitia Colombani](https://www.laetitia-colombani.fr/index-en.html) 
 
-During her postdoc within [R. Gatto](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_gatto_riccardo/index_ger.html)'s and my team, Laetitia worked in the framework of a collaboration with [D. Stroka](https://www.bcpm.unibe.ch/about_us/members/people/prof_dr_rernat_stroka_deborah/)'s team (notably with [D. Sánchez-Taltavull](https://www.bcpm.unibe.ch/about_us/members/people/dr_snchez_taltavull_daniel/)) at the Department of BioMedical Research. She now started a postdoc in [S. Méléard](https://sites.google.com/view/sylvie-meleard/accueil)'s team at Ecole Polytechnique. 
+During her postdoc within [R. Gatto](https://www.imsv.unibe.ch/ueber_uns/personen/prof_dr_gatto_riccardo/index_ger.html)'s and my team, Laetitia worked in the framework of a collaboration with [D. Stroka](https://www.bcpm.unibe.ch/about_us/members/people/prof_dr_rernat_stroka_deborah/)'s team (notably with [D. Sánchez-Taltavull](https://www.bcpm.unibe.ch/about_us/members/people/dr_snchez_taltavull_daniel/)) at the Department of BioMedical Research. 
+She is now MCF (tenured assistant professor) at the University of Lyon 1.  
 
 * [Athénaïs Gautier](https://athenaisgautier.github.io/) 
 
-In her PhD in Statistics (defended May 2023), Athénaïs has worked on distribution fields and applications in inverse problems and stochastic optimization. She now works as a postdoc with a focus on spatial stochastic simulation in the [COSMO Lab](https://cosmo.mcgill.ca/) at McGill University.  
+In her PhD in Statistics (defended May 2023), Athénaïs has worked on distribution fields and applications in inverse problems and stochastic optimization. She now works as researcher at The French Aerospace Lab (ONERA).  
   
 * [Cédric Travelletti](https://cedrictravelletti.github.io/)
 
