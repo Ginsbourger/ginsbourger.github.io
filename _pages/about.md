@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am heading the Uncertainty Quantification and Spatial Statistics Group and serving as Director of Studies in Statistics at the [University of Bern](http://www.unibe.ch), where I am co-directing the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html).  My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
+I am heading the Uncertainty Quantification and Spatial Statistics Group and serving as Director of Studies in Statistics at the [University of Bern](http://www.unibe.ch), 
+where I am co-directing the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html).  
+My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
+
+Currently and until August 2025, I am on sabbatical and will spend a substantial part of it at [Isaac Newton Institute](https://www.newton.ac.uk/) (Cambridge, UK), 
+where I am organizing the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
+together with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), [Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) 
+and [Richard Wilkinson](https://rich-d-wilkinson.github.io/). 
 
 At the University of Bern, I am also a member of  
 * the [Oeschger Center for Climate Change Research](http://www.oeschger.unibe.ch/),
