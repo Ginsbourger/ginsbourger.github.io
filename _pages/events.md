@@ -51,6 +51,12 @@ to take place from March 31 to April 4, 2025 at the [Institute for Mathematical 
 
 * The first [Bern Data Science Symposium](https://www.bedsi.unibe.ch/about/events_and_talks/bern_data_science_symposium/) took place in Bern on January 25. Thanks to our great speakers Prof. Caroline Uhler (MIT) and Prof. Amir Zamir (EPFL)! 
 
+### 2022
+
+* Invited talk (delivered online) at the inaugural meeting of the [Groupement d'Intérêt Scientifique UQ@Paris-Saclay](https://uq-at-paris-saclay.github.io/), October 18th.
+
+* [Lifting Inference with Kernel Embeddings](https://like22-bern.github.io/) took place online from January 10 to 14.
+
 ## Past events from the previous decade    
                                      
 <ul>
