@@ -53,9 +53,27 @@ to take place from March 31 to April 4, 2025 at the [Institute for Mathematical 
 
 ### 2022
 
-* Invited talk (delivered online) at the inaugural meeting of the [Groupement d'Intérêt Scientifique UQ@Paris-Saclay](https://uq-at-paris-saclay.github.io/), October 18th.
+* [Patric Wyss](https://www.upd.unibe.ch/about_us/people/dr_wyss_patric/index_eng.html) successfully defended his PhD thesis (co-supervision with Dr. Ahmed Abdulkadir) at Universitäre Psychiatrische Dienste (UPD), November 22.  
+ 
+* Visit of [Dr. Krikamol Muandet](https://www.krikamol.org/) around his talk at [Biased Data, Models, and Algorithms. Perspectives from Data Science](https://www.dh.unibe.ch/forschung/workshops_und_talks/biased_data/index_ger.html), October 31 and November 1. 
 
-* [Lifting Inference with Kernel Embeddings](https://like22-bern.github.io/) took place online from January 10 to 14.
+* Invited talk (delivered online) at the inaugural meeting of the [Groupement d'Intérêt Scientifique UQ@Paris-Saclay](https://uq-at-paris-saclay.github.io/), October 18.
+
+* Rapporteur on the [https://theses.hal.science/tel-03954825/](PhD thesis) of Louis Berry, who successfully defended his PhD (Toulouse/Cadarache) on September 28. 
+
+* Rapporteur on the [https://theses.fr/2022UPASG063](PhD thesis) of Sébastien Petit, who successfully defended his PhD (Université Paris-Saclay) on September 2. 
+
+* Visit of [Prof. Peter Frazier](https://people.orie.cornell.edu/pfrazier/) (Cornell University, USA) at IMSV on July 11-12. 
+
+* External examiner on the PhD committee of [Manuel Schürch](https://scholar.google.com/citations?user=bTzK12MAAAAJ&hl=de), who successfully defended his PhD at IDSIA Lugano on July 1st. 
+
+* Scientific committee member of the first [Bern Data Science Day](https://www.dsl.unibe.ch/lab/bdsd_archive/bdsd2022), Bern, May 6. 
+
+* Co-organizer (with Athénaïs Gautier and Simon Mak) of the mini-symposia "Incorporating Structural Information in Kernel Methods" ([Part I](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73569) and 
+[Part II](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73570)) at the [SIAM conference on Uncertainty Quantification (UQ22)](https://www.siam.org/conferences-events/past-event-archive/uq22/), which 
+took place in Atlanta (USA) and online from April 12 to 15. 
+
+* Chair of [Lifting Inference with Kernel Embeddings](https://like22-bern.github.io/) that took place online from January 10 to 14.
 
 ## Past events from the previous decade    
                                      
