@@ -21,7 +21,7 @@ and [Dave Woods](https://www.southampton.ac.uk/people/5wz6hb/professor-dave-wood
 to take place from March 31 to April 4, 2025 at the [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute/), Chicago, USA.  
 
 
-## Past events from the current decade (work in progress, filling a gap of missing news between 2019 and 2024)
+## Past events from the current decade (work in progress, filling some gaps)
 
 ### 2024 
 
@@ -69,7 +69,7 @@ to take place from March 31 to April 4, 2025 at the [Institute for Mathematical 
 
 * External examiner on the PhD committee of [Manuel Schürch](https://scholar.google.com/citations?user=bTzK12MAAAAJ&hl=de), who successfully defended his PhD at IDSIA Lugano on July 1st. 
 
-* Scientific committee member of the first [Bern Data Science Day](https://www.dsl.unibe.ch/lab/bdsd_archive/bdsd2022), Bern, May 6. 
+* Scientific committee member of the [Bern Data Science Day](https://www.dsl.unibe.ch/lab/bdsd_archive/bdsd2022), Bern, May 6. 
 
 * Co-organizer (with Athénaïs Gautier and Simon Mak) of the mini-symposia "Incorporating Structural Information in Kernel Methods" ([Part I](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73569) and 
 [Part II](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73570)) at the [SIAM conference on Uncertainty Quantification (UQ22)](https://www.siam.org/conferences-events/past-event-archive/uq22/), which 
@@ -77,7 +77,25 @@ took place in Atlanta (USA) and online from April 12 to 15.
 
 * Chair of [Lifting Inference with Kernel Embeddings](https://like22-bern.github.io/) that took place online from January 10 to 14.
 
-## Past events from the previous decade    
+[comment]: 2021
+[comment]: Axtis workshop https://sites.google.com/view/ai4s21/home September 6th and 7th
+[comment]: Agrell, August 27 
+[comment]: Invited talk at MAscotnum 29 April, Aussois/online  
+[comment]: Scientific committee member of the [Bern Data Science Day](https://www.bedsi.unibe.ch/events/bdsd/bdsd_2021/), Bern, April 23. 
+[comment]: INPUT, April 1 
+[comment]: SIAM CSE March 4
+[comment]: CVG talk 25 Feb
+[comment]: CMX 27 January 
+
+
+[comment]: 2020 
+[comment]: 
+[comment]: 
+[comment]:
+[comment]:
+
+
+## Selected past events from the previous decade    
                                      
 <ul>
  <li> Thursday September 19, 2019: Start of the Spatial Statistics course I taught at EPFL</li>
