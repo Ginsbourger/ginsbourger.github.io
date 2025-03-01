@@ -53,6 +53,8 @@ to take place from March 31 to April 4, 2025 at the [Institute for Mathematical 
 
 ### 2022
 
+* Invited talk to the [Machine Learning and Dynamical Systems Seminar](https://sites.google.com/site/boumedienehamzi/machine-learning-and-dynamical-systems-seminar?authuser=0), online, December 15. 
+
 * [Patric Wyss](https://www.upd.unibe.ch/about_us/people/dr_wyss_patric/index_eng.html) successfully defended his PhD thesis (co-supervision with Dr. Ahmed Abdulkadir) at Universitäre Psychiatrische Dienste (UPD), November 22.  
  
 * Visit of [Dr. Krikamol Muandet](https://www.krikamol.org/) around his talk at [Biased Data, Models, and Algorithms. Perspectives from Data Science](https://www.dh.unibe.ch/forschung/workshops_und_talks/biased_data/index_ger.html), October 31 and November 1. 
