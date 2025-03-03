@@ -86,8 +86,8 @@ took place in Atlanta (USA) and online from April 12 to 15.
 * Invited talk at [Mascotnum 2021](https://uq.math.cnrs.fr/mascot21), online, April 28-30  
 * Scientific committee member of the [Bern Data Science Day](https://www.bedsi.unibe.ch/events/bdsd/bdsd_2021/), Bern, April 23. 
 * Invited talk at the mini-symposium [Bayesian Methods in Science and Engineering - Part II](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70316) withing the SIAM (virtual) conference on Computational Science and Engineering, March 4. 
-* Invited talk at the [Computer Vision Group](https://www.cvg.unibe.ch/home/)'s seminar, University of Bern, Feburary 25 (online).  
-* Invited talk at Caltech's [CM+X seminar](https://cmx.caltech.edu/pastevents2021.html), January 27, online.  
+* Invited talk at the [Computer Vision Group](https://www.cvg.unibe.ch/home/)'s seminar, Bern (online), Feburary 25.  
+* Invited talk at Caltech's [CM+X seminar](https://cmx.caltech.edu/pastevents2021.html), Pasadena (online), January 27.  
 
 [comment]: 2020 
 
