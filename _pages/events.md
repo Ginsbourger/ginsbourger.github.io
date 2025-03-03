@@ -21,7 +21,7 @@ and [Dave Woods](https://www.southampton.ac.uk/people/5wz6hb/professor-dave-wood
 to take place from March 31 to April 4, 2025 at the [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute/), Chicago, USA.  
 
 
-## Past events from the current decade (work in progress, filling some gaps)
+## Past events from the current decade (still filling some gaps)
 
 ### 2024 
 
@@ -46,6 +46,8 @@ to take place from March 31 to April 4, 2025 at the [Institute for Mathematical 
 * Congratulations to [Athénaïs Gautier](https://athenaisgautier.github.io/) on her successful PhD defense on May 19!
 
 * [Swiss Statistics Seminar](https://www.imsv.unibe.ch/research/talks/swiss_statistics_seminars_live/index_eng.html) at Bern on March 23. 
+
+* Invited talk to the [INPUT Research meeting](https://github.com/INPUTBern/research-meetings) on February 3.  
 
 * [Data Science Seminar](https://www.lse.ac.uk/statistics/assets/Documents/Department-of-Statistics-Archive-of-Data-Science-Seminars-MT-22-ST-23.pdf) at London School of Economics on January 30.
 
@@ -77,23 +79,18 @@ took place in Atlanta (USA) and online from April 12 to 15.
 
 * Chair of [Lifting Inference with Kernel Embeddings](https://like22-bern.github.io/) that took place online from January 10 to 14.
 
-[comment]: 2021
-[comment]: Axtis workshop https://sites.google.com/view/ai4s21/home September 6th and 7th
-[comment]: Agrell, August 27 
-[comment]: Invited talk at MAscotnum 29 April, Aussois/online  
-[comment]: Scientific committee member of the [Bern Data Science Day](https://www.bedsi.unibe.ch/events/bdsd/bdsd_2021/), Bern, April 23. 
-[comment]: INPUT, April 1 
+### 2021
+
+* Chairing the [Accelerated statistical inference for the sciences workshop](https://sites.google.com/view/ai4s21/home), online, September 6 and 7. 
+* I was on the [PhD committee of Christian Agrell](https://www.mn.uio.no/math/english/research/news-and-events/events/disputations/2021/Agrell.html), who successfully defended his PhD on August 27.  
+* Invited talk at [Mascotnum 2021](https://uq.math.cnrs.fr/mascot21), online, April 28-30  
+* Scientific committee member of the [Bern Data Science Day](https://www.bedsi.unibe.ch/events/bdsd/bdsd_2021/), Bern, April 23. 
 [comment]: SIAM CSE March 4
 [comment]: CVG talk 25 Feb
 [comment]: CMX 27 January 
 
 
 [comment]: 2020 
-[comment]: 
-[comment]: 
-[comment]:
-[comment]:
-
 
 ## Selected past events from the previous decade    
                                      
@@ -316,7 +313,7 @@ from June 11. to 15. 2012 </li>
  <li> Invited talk (session ES28) at the 4th International Conference on Computing and Statistics 
 (<a href="http://www.cfe-csda.org/ercim11/cfp.html">ERCIM'11</a>) in London, from December 17. to 19. 2011</li>
 <p> </p>
- <li> Invited talk at the <a href="http://www2.unine.ch/math/page-12874.html#cid195554">S&eacuteminaire "Math&eacutematiques et Soci&eacutet&eacute"</a> in Neuch&acirctel, 
+ <li> Invited talk at the <a href="http://www2.unine.ch/math/page-12874.html#cid195554">Séminaire "Mathémamatiques et Société"</a> in Neuchâtel, 
  on December 14. 2011</li>
 <p> </p>
 <li> Inaugural meeting of the ReDICE project in Paris, December 6. 2011</li>
@@ -324,8 +321,8 @@ from June 11. to 15. 2012 </li>
 <li> An Introduction to Reproducing 
 Kernel Hilbert Spaces, II at the University of Bern on November 16. 2011</li>
 <p> </p>
-<li> Ph.D. defense of Nicolas Durrande at the Ecole des Mines de Saint-Etienne, November 9. 2011. Title: "&Eacutetude de classes de noyaux adapt&eacutes &agrave la
-simplification et &agrave l&#39interpr&eacutetation des mod&egraveles d&#39approximation. Une approche fonctionnelle et probabiliste". </li>
+<li> Ph.D. defense of Nicolas Durrande at the Ecole des Mines de Saint-Etienne, November 9. 2011. Title: "Étude de classes de noyaux adapés à la
+simplification et à l'interprétation des modèles d'approximation. Une approche fonctionnelle et probabiliste". </li>
  <p> </p>
 <li> An Introduction to Reproducing 
 Kernel Hilbert Spaces, I at the University of Bern on November 2. 2011</li>
