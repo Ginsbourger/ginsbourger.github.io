@@ -51,7 +51,7 @@ to take place from March 31 to April 4, 2025 at the [Institute for Mathematical 
 
 * [Data Science Seminar](https://www.lse.ac.uk/statistics/assets/Documents/Department-of-Statistics-Archive-of-Data-Science-Seminars-MT-22-ST-23.pdf) at London School of Economics on January 30.
 
-* The first [Bern Data Science Symposium](https://www.bedsi.unibe.ch/about/events_and_talks/bern_data_science_symposium/) took place in Bern on January 25. Thanks to our great speakers Prof. Caroline Uhler (MIT) and Prof. Amir Zamir (EPFL)! 
+* The first [Bern Data Science Symposium](https://www.bedsi.unibe.ch/events/bern_data_science_symposium/) took place in Bern on January 25. Thanks to our great speakers Prof. Caroline Uhler (MIT) and Prof. Amir Zamir (EPFL)! 
 
 ### 2022
 
@@ -59,13 +59,13 @@ to take place from March 31 to April 4, 2025 at the [Institute for Mathematical 
 
 * [Patric Wyss](https://www.upd.unibe.ch/about_us/people/dr_wyss_patric/index_eng.html) successfully defended his PhD thesis (co-supervision with Dr. Ahmed Abdulkadir) at Universitäre Psychiatrische Dienste (UPD), November 22.  
  
-* Visit of [Dr. Krikamol Muandet](https://www.krikamol.org/) around his talk at [Biased Data, Models, and Algorithms. Perspectives from Data Science](https://www.dh.unibe.ch/forschung/workshops_und_talks/biased_data/index_ger.html), October 31 and November 1. 
+* Visit of [Dr. Krikamol Muandet](https://www.krikamol.org/) around his talk at [Biased Data, Models, and Algorithms. Perspectives from Data Science](https://www.dh.unibe.ch/forschung/workshops_und_talks/biased_data/index_ger.html), November 1. 
 
 * Invited talk (delivered online) at the inaugural meeting of the [Groupement d'Intérêt Scientifique UQ@Paris-Saclay](https://uq-at-paris-saclay.github.io/), October 18.
 
 * Rapporteur on the [PhD thesis](https://theses.hal.science/tel-03954825/) of Louis Berry, who successfully defended his PhD (Toulouse/Cadarache) on September 28. 
 
-* Rapporteur on the [https://theses.fr/2022UPASG063](PhD thesis) of Sébastien Petit, who successfully defended his PhD (Université Paris-Saclay) on September 2. 
+* Rapporteur on the [PhD thesis](https://theses.fr/2022UPASG063) of Sébastien Petit, who successfully defended his PhD (Université Paris-Saclay) on September 2. 
 
 * Visit of [Prof. Peter Frazier](https://people.orie.cornell.edu/pfrazier/) (Cornell University, USA) at IMSV on July 11-12. 
 
@@ -93,7 +93,6 @@ took place in Atlanta (USA) and online from April 12 to 15.
 
 ## Selected past events from the previous decade    
                                      
-<ul>
  <li> Thursday September 19, 2019: Start of the Spatial Statistics course I taught at EPFL</li>
 <p> </p>
 <li> Our project partner <a href="http://www.stat.ucdavis.edu/~polonik/WP-personal-home.html">Prof. Wolfgang Polonik</a> gave a 
@@ -342,4 +341,4 @@ Isaac Newton Institute for Mathematical Sciences (Cambridge, UK) from September 
 <li> Invited talk (and research week with T. Espinasse, F. Gamboa, and M.L. Stein) at the 
 Costa Brava project meeting <a href="http://www.math.univ-toulouse.fr/COSTA_BRAVA/doku.php?id=krigjune11"> New Trends in Kriging </a> 
 in Toulouse (F) from June 24. to 30. 2011 </li>   
-	</ul>
+	
