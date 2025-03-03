@@ -63,7 +63,7 @@ to take place from March 31 to April 4, 2025 at the [Institute for Mathematical 
 
 * Invited talk (delivered online) at the inaugural meeting of the [Groupement d'Intérêt Scientifique UQ@Paris-Saclay](https://uq-at-paris-saclay.github.io/), October 18.
 
-* Rapporteur on the [https://theses.hal.science/tel-03954825/](PhD thesis) of Louis Berry, who successfully defended his PhD (Toulouse/Cadarache) on September 28. 
+* Rapporteur on the [PhD thesis](https://theses.hal.science/tel-03954825/) of Louis Berry, who successfully defended his PhD (Toulouse/Cadarache) on September 28. 
 
 * Rapporteur on the [https://theses.fr/2022UPASG063](PhD thesis) of Sébastien Petit, who successfully defended his PhD (Université Paris-Saclay) on September 2. 
 
@@ -77,11 +77,11 @@ to take place from March 31 to April 4, 2025 at the [Institute for Mathematical 
 [Part II](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=73570)) at the [SIAM conference on Uncertainty Quantification (UQ22)](https://www.siam.org/conferences-events/past-event-archive/uq22/), which 
 took place in Atlanta (USA) and online from April 12 to 15. 
 
-* Chair of [Lifting Inference with Kernel Embeddings](https://like22-bern.github.io/) that took place online from January 10 to 14.
+* Chair of [Lifting Inference with Kernel Embeddings](https://like22-bern.github.io/), online, January-14.
 
 ### 2021
 
-* Chairing the [Accelerated statistical inference for the sciences workshop](https://sites.google.com/view/ai4s21/home), online, September 6 and 7. 
+* Chairing the online workshop [Accelerated statistical inference for the sciences](https://sites.google.com/view/ai4s21/home), September 6-7. 
 * I was on the [PhD committee of Christian Agrell](https://www.mn.uio.no/math/english/research/news-and-events/events/disputations/2021/Agrell.html), who successfully defended his PhD on August 27.  
 * Invited talk at [Mascotnum 2021](https://uq.math.cnrs.fr/mascot21), online, April 28-30  
 * Scientific committee member of the [Bern Data Science Day](https://www.bedsi.unibe.ch/events/bdsd/bdsd_2021/), Bern, April 23. 
