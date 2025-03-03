@@ -162,7 +162,7 @@ at Cambridge, UK (stay planned for several weeks there distributed over January-
 <li> <a href="http://www.idiap.ch/workshop/small-data/">Valais/Wallis Workshop on Artificial Intelligence 2</a> at Idiap, November 10. 2017. </li>
 <p> </p>
 <li> Invited speaker at the <a href="https://wiki.math.ntnu.no/selbusymposium/baardshaug2017/start/">Trondheim Symposium in Statistics 2017</a>, 
-and visiting Prof. <a href="http://www.ntnu.edu/employees/joeid">Jo Eidksvik</a>, NTNU Trondheim and Baardshaug, Norway, 4-7 October 2017.</li>
+and visiting Prof. <a href="http://www.ntnu.edu/employees/joeid">Jo Eidsvik</a>, NTNU Trondheim and Baardshaug, Norway, 4-7 October 2017.</li>
 <p> </p>
 <li> Invited talk and visit of Dr. Adam Amara and Prof. Alexandre Refregier at <a href="http://www.cosmology.ethz.ch/">Alexandre Refregier's Cosmology Research Group</a>, Institute for Astronomy, 
 ETH Zurich, 4-5 September 2017.</li>
@@ -176,7 +176,7 @@ Marrakech, July 2017.</li>
 <a href="https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/Events/Bayesian+Inference+in+Stochastic+Processes+%28BISP+-+10%29/">
 Bayesian Inference in Stochastic Processes (BISP-10) workshop</a>, Milano, June 2017.</li>
 <p> </p>
-<li> PhD defense of [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) at the University of Bern, November 17th 2016.</li>
+<li> PhD defense of <a href="https://sites.google.com/view/darioazzimonti/home">Dario Azzimonti<\a> at the University of Bern, November 17th 2016.</li>
 <p> </p>
 <li> Invited talk at the <a href="http://gpss.cc/gpuqss16/program">Gaussian Process and Uncertainty Quantification Summer School</a>, Sheffield, September 2016. </li>
 <p> </p>
