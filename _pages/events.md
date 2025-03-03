@@ -82,7 +82,7 @@ took place in Atlanta (USA) and online from April 12 to 15.
 ### 2021
 
 * Chairing the online workshop [Accelerated statistical inference for the sciences](https://sites.google.com/view/ai4s21/home), September 6-7. 
-* I was on the [PhD committee of Christian Agrell](https://www.mn.uio.no/math/english/research/news-and-events/events/disputations/2021/Agrell.html), who successfully defended his PhD on August 27.  
+* I was on the [PhD committee of Christian Agrell](https://www.mn.uio.no/math/english/research/news-and-events/events/disputations/2021/Agrell.html), who successfully defended his PhD of the University of Olso (online) on August 27.  
 * Invited talk at [Mascotnum 2021](https://uq.math.cnrs.fr/mascot21), online, April 28-30  
 * Scientific committee member of the [Bern Data Science Day](https://www.bedsi.unibe.ch/events/bdsd/bdsd_2021/), Bern, April 23. 
 * Invited talk at the mini-symposium [Bayesian Methods in Science and Engineering - Part II of II](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=70316) withing the SIAM (virtual) conference on Computational Science and Engineering, March 4. 
