@@ -55,7 +55,7 @@ at the SIAM Conference on UNcertainty Quantification, Trieste, Italy, February 2
 
 * Congratulations to [Athénaïs Gautier](https://athenaisgautier.github.io/) on her successful PhD defense on May 19!
 
-* [Swiss Statistics Seminar](https://www.imsv.unibe.ch/research/talks/swiss_statistics_seminars_live/index_eng.html) at Bern on March 23. 
+* [Swiss Statistics Seminar](https://www.imsv.unibe.ch/research/talks/swiss_statistics_seminars_live/index_eng.html#pane1436372) at Bern on March 23. 
 
 * Invited talk to the [INPUT Research meeting](https://github.com/INPUTBern/research-meetings) on February 3.  
 
