@@ -28,13 +28,20 @@ to take place from March 31 to April 4, 2025 at the [Institute for Mathematical 
 
 ### 2024 
 
+* Visit, talk and crash-course of [Geir Evensen](https://www.imsv.unibe.ch/ueber_uns/news/artikel/ensemble_parameter_estimation_conditioning_models_on_dynamic_date/index_ger.html) at UniBE, Bern, December 11-13
+
 * Invited speaker at the [Gaussian Process Summer School 2024](https://gpss.cc/gpss24/) (GPSS, Manchester, UK, September 9-12, 2024)
+
+* [IMSV summer workshop](https://www.imsv.unibe.ch/ueber_uns/news/artikel/imsv_workshop_july_2024/index_ger.html), Bern, July 1-2 
 
 * Keynote speaker at the [15th International Conference on Geostatistics for Environmental Applications](https://2024.geoenvia.org/) (GeoEnv 2024, Chania, Greece, June 19-21, 2024)
 
 * Invited speaker at the [Practical Data Assimilation and Uncertainty Quantification Workshop](https://pauq.sciencesconf.org/) (PAUQ, Orleans, France, May 21-23, 2024)
 
 * Conference co-chair (with [Guillaume Obozinski](https://www.datascience.ch/people/guillaume-obozinski)) of [Data Science for the Sciences](https://www.ds4s.ch/) (Bern, April 11-12, 2024)
+
+* Invited talk in the mini-symposium [Challenges in Inversion and Model Calibration: From UQ to OED - Part I of III](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=78190)
+at the SIAM Conference on UNcertainty Quantification, Trieste, Italy, February 27 - March 1. 
 
 ### 2023
 
