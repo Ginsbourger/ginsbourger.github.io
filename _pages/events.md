@@ -45,7 +45,7 @@ at the SIAM Conference on UNcertainty Quantification, Trieste, Italy, February 2
 
 ### 2023
 
-* Short (too short) participation on July 17 in the [Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2023](https://www.ellis.eng.cam.ac.uk/summer-school/)
+* Short (too short) participation on July 17 in the [Cambridge Ellis Unit Summer School on Probabilistic Machine Learning 2023](https://ellis.eu/events/ellis-summer-school-on-probabilistic-machine-learning-cambridge-unit)
 
 * After a four years gap, glad to be at [mODa13](https://statsdavew.github.io/mODa13/) in Southampton from July 9 to 14.
 
