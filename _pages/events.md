@@ -24,6 +24,8 @@ to take place from March 31 to April 4, 2025 at the [Institute for Mathematical 
 
 * Invited talk at the [Computational Mathematics + X](https://cmx.caltech.edu/) Lunch Seminars, Caltech, USA, March 25. 
 
+* Invited talk at the [AI in chemistry and beyond: Trends in the field](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars/) Seminar, EPFL (online), March 18.
+
 ## Past events from the current decade (still filling some gaps)
 
 ### 2024 
