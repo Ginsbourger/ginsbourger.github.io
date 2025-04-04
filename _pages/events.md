@@ -15,18 +15,22 @@ to be held from May 6th to August 29th 2025 at [Isaac Newton Institute](https://
 
 * Invited talk at the [Computational Statistics and Machine Learning seminar series](https://ucl-ellis.github.io/jt_csml_seminar_home/), UCL AI Center, London, UK, May 2. 
 
+## Past events from the current decade (still filling some gaps)
+
+### 2025 
+
 * Organizer (with [Mihai Anitescu](https://web.cels.anl.gov/~anitescu/), 
 [Fred Hickernell](https://www.iit.edu/directory/people/fred-hickernell), 
 [Shiwei Lan](https://search.asu.edu/profile/3508708), [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/), 
 and [Dave Woods](https://www.southampton.ac.uk/people/5wz6hb/professor-dave-woods)) of the workshop 
 [Kernel Methods in Uncertainty Quantification and Experimental Design](https://www.imsi.institute/activities/kernel-methods-in-uncertainty-quantification-and-experimental-design/)
-to take place from March 31 to April 4, 2025 at the [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute/), Chicago, USA.  
+that took place from March 31 to April 4, 2025 at the [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute/), Chicago, USA.  
+
 
 * Invited talk at the [Computational Mathematics + X](https://cmx.caltech.edu/) Lunch Seminars, Caltech, USA, March 25. 
 
 * Invited talk at the [AI in chemistry and beyond: Trends in the field](https://www.epfl.ch/schools/sb/research/isic/news-events/machine-learning-seminars/) Seminar, EPFL (online), March 18.
 
-## Past events from the current decade (still filling some gaps)
 
 ### 2024 
 
