@@ -275,11 +275,15 @@ Invited contribution to the session "Talks in honour of Ilya M. Sobol' " of the
 Eleventh International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing</a>, KU Leuven, April 6-11 2014. </li>
 <p> </p>
 <li> 
+Invited talk, \href{https://www.nottingham.ac.uk/mathematics/events/seminarstats060214.aspx}{Joint Statistics and Scientific Computation Seminar}, University of Nottingham, February 6th 2014 </li>
+<p> </p>
+<li> 
+<li> 
 Invited talk at the MAD seminar, Toulouse School of Economics, November 15 2013. </li>
 <p> </p>
 <li> 
 <a href="http://www.clementchevalier.com/index.php/phd-dissertation">
-PhD defense of Clement Chevalier</a>, University of Bern, September 18 2013. </li>
+PhD defense of Clément Chevalier</a>, University of Bern, September 18 2013. </li>
 <p> </p>
 <li> 
 Invited talk at the Séminaire de Statistique, Institut de Mathematique de Toulouse, September 10 2013. </li>
@@ -298,6 +302,10 @@ following this conference. </li>
 <li> Participation in the  <a href="http://www.moda10.uz.zgora.pl/"> 
 Model-Oriented Data Analysis and Optimum Design (mODa) Workshop</a>, 
 Lagow Lubuski, Poland, from June 10. to 14. 2013.</li>
+<p> </p>
+<li> 
+Invited talk to the \href{
+https://math.ethz.ch/sfs/news-and-events/seminar-applied-statistics.html?s=fs13}{“ZüKoSt” Seminar on Applied Statistics}, ETH Zürich (Switzerland), April 25 2013.</li>
 <p> </p>
 <li> Invited talk at the <a href="http://aspen.forge.imag.fr/index.php"> 
 Ecole-chercheur "Analyse de sensibilité, propagation d'incertitudes et exploration numérique de modèles en sciences de l'environnement"</a>, 
@@ -319,8 +327,9 @@ from July 2. to 4. 2012 </li>
 <li> Presentation at <a href="http://www.congrex.no/geostats2012/"> The 9th International Geostatistics Congress </a> in Oslo (NO), 
 from June 11. to 15. 2012 </li>
 <p> </p>
-<li> Research visit at the TU Dortmund (invitation by PD. Dr. Sonja Kuhnt) from April 23. to 26. 2012 </li>
+<li> Research visit and invited talk at the TU Dortmund (invitation by PD. Dr. Sonja Kuhnt) from April 23. to 26. 2012 </li>
 <p> </p>
+#* Invited talk in the frame of the Collaborative Research Center SFB 708, TU Dortmund (Germany), April 25 2012
 <li> I started to serve as Associate Editor of the 
 <a href="http://www.tandfonline.com/toc/gscs20/current">Journal of Statistical Computation and Simulation</a>, on February 18. 2012 </li>
 <p> </p>
@@ -343,7 +352,7 @@ Kernel Hilbert Spaces, I at the University of Bern on November 2. 2011</li>
  <p> </p>
 <li>Seminar talk about Customizing Kernels at the University of Bern on September 28. 2011</li>
  <p> </p>
-<li>Participant in a workshop on <a href="http://www.fim.math.ethz.ch/conferences/2011/High_dimensional">High-Dimensional Problems in Statistics </a> at ETH Z&uumlrich 
+<li>Participant in a workshop on <a href="http://www.fim.math.ethz.ch/conferences/2011/High_dimensional">High-Dimensional Problems in Statistics </a> at ETH Zürich 
 from September 19. to 23. 2011</li>
  <p> </p>
 <li> Beginning of the course on Spatial Statistics (together with D. Schuhmacher) in Bern on September 19. 2011</li>
@@ -351,10 +360,35 @@ from September 19. to 23. 2011</li>
 <li> Invited talk at the <a href="http://www.tilburguniversity.edu/about-tilburg-university/schools/economics-and-management/news/seminars/or/"> Operations Research 
 seminar</a> in Tilburg (NL) on September 15. 2011</li>
 <p> </p>
-<li> Invited participant in a <a href="http://www.newton.ac.uk/programmes/DAE/daew05.html"> Workshop on Design and Analysis of Experiments </a> at the 
-Isaac Newton Institute for Mathematical Sciences (Cambridge, UK) from September 3. to 9. 2011</li>   
+<li> Workshop participant (INI-supported) in <a href="https://www.newton.ac.uk/event/daew05/">Accelerating industrial productivity via deterministic computer experiments & stochastic simulation</a> at the 
+Isaac Newton Institute (Cambridge, UK) from September 3. to 9. 2011</li>   
 <p> </p>
 <li> Invited talk (and research week with T. Espinasse, F. Gamboa, and M.L. Stein) at the 
 Costa Brava project meeting <a href="http://www.math.univ-toulouse.fr/COSTA_BRAVA/doku.php?id=krigjune11"> New Trends in Kriging </a> 
 in Toulouse (F) from June 24. to 30. 2011 </li>   
+
+* Two-part invited talk (with Victor Picheny) at the [Optimisation et évaluation d'événements rares](https://uq.math.cnrs.fr/mai10) workshop, ENSCP, Paris (France), Mai 4 2010 
+
+* Invited talk at the Institut für Spanende Fertigung, TU Dortmund (Germany), January 25 2010
+
+* Invited talk at the Autumn Symposium of the Statistical Modelling Research Training Group, Universitätskolleg Haus Bommerholz, Witten-Bommerholz, Germany, November 20-21 2009
+
+* Co-organizer of a the [ENBIS-EMSE conference](https://events.mines-stetienne.fr/enbis-emse2009/committees.php), Saint-Etienne, France, 1-3 July 2009 
+
+* Invited talk to the ["Uncertainty, Metamodels, and Design of Experiments"](https://uq.math.cnrs.fr/media/impec09.pdf) (IMPEC) Seminar, CEA Saclay (France), October 6 2009 
+
+* Invited talk to the Séminaire Mathématiques et Société, Université de Neuchâtel, Switzerland, March 4 2009
 	
+* Two contributed talks at the Congrès conjoint de la Société Statistique du Canada et de la SFdS, Ottawa (Canada), May 25-29 2008
+
+* Invited talk at the 7th Workshop on Quality Improvement Methods, Universitätskolleg Haus Bommerholz, Witten-Bommerholz, Germany, May 23-24, 2008.
+
+* Invited talk at INRIA, Sequel (Optimization, Learning and Statistical Methods) team, March 14th, 2008, Lille (France).
+
+* Invited talk in Philippe Renard's stochastic hydrogeology group, University of Neuchâtel, Switzerland, May 3 2007
+
+* Contributed talk at the NCP07 conference (Non Convex Programming International Conference: Local and Global Approaches), Rouen (France), December 17-21 200.
+
+* Contributed talk at the ENBIS7 conference, Dortmund (Germany), September 24-26 2007
+
+* Contributed talk at the Joint ENBIS-DEINDE conference, Torino (Italy), April 11-13 2007
