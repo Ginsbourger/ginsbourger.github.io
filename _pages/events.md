@@ -242,7 +242,7 @@ hosted by the University of Bern, November 24-26 2014.
 
 * Invited contribution to the session "Talks in honour of Ilya M. Sobol' " of the [Eleventh International Conference on Monte Carlo and Quasi-Monte Carlo Methods in Scientific Computing](http://mcqmc2014.cs.kuleuven.be/program/), KU Leuven, April 6-11 2014. 
 
-* Invited talk, [Joint Statistics and Scientific Computation Seminar](https://www.nottingham.ac.uk/mathematics/events/seminarstats060214.aspx), University of Nottingham, February 6th 2014.
+* Invited talk, [Joint Statistics and Scientific Computation Seminar](https://www.nottingham.ac.uk/mathematics/events/seminarstats060214.aspx), University of Nottingham, February  2014.
 
 * Invited talk at the MAD seminar, Toulouse School of Economics, November 15 2013.
 
@@ -257,66 +257,65 @@ Nizza, July 1-4 2013. Guest editor (with Bertrand Iooss and Luc Pronzato) of a s
 following this conference.
 
 * Participation in the 10th [Model-Oriented Data Analysis and Optimum Design (mODa) workshop](http://www.moda10.uz.zgora.pl/), 
-Lagow Lubuski, Poland, from June 10. to 14. 2013.
+Lagow Lubuski, Poland, from June 10 to 14 2013.
 
 * Invited talk to the ["ZüKoSt" Seminar on Applied Statistics](https://math.ethz.ch/sfs/news-and-events/seminar-applied-statistics.html?s=fs13), ETH Zürich (Switzerland), April 25 2013.
 
 * Invited talk at the [Ecole-chercheur "Analyse de sensibilité, propagation d'incertitudes et exploration numérique de modèles en sciences de l'environnement"](http://aspen.forge.imag.fr/index.php), 
-Ecole de Physique des Houches, from April 7. to 13. 2013.
+Ecole de Physique des Houches, from April 7 to 13 2013.
 
 * Program committee member and contributor to the [NIPS 2012 Workshop on Bayesian 
-Optimization and Decision Making](http://javad-azimi.com/nips2012ws/index.html) in Lake Tahoe, December 7. 2012.
+Optimization and Decision Making](http://javad-azimi.com/nips2012ws/index.html) in Lake Tahoe, December 7 2012.
 
-* Invited talk at the [Seminar of the School of Engineering Sciences](http://www.southampton.ac.uk/~as7/seminars.htm), University of Southampton, November 19. 2012.
+* Invited talk at the [Seminar of the School of Engineering Sciences](http://www.southampton.ac.uk/~as7/seminars.htm), University of Southampton, November 19 2012.
  
 * Contributed talk at the [8th World Congress in Probability and Statistics](http://www.worldcong2012.org) in Istanbul (Turkey), 
-from July 9. to 14. 2012.
+from July 9 to 14 2012.
  
-* Invited speaker at the Uncertainty in Computer Models 2012 conference (UCM 2012) in Sheffield (UK), from July 2. to 4. 2012.
+* Invited speaker at the Uncertainty in Computer Models 2012 conference (UCM 2012) in Sheffield (UK), from July 2 to 4 2012.
  
 * Presentation at [The 9th International Geostatistics Congress](http://www.congrex.no/geostats2012/) in Oslo (NO), 
-from June 11. to 15. 2012.
+from June 11 to 15 2012.
  
-* Research visit and invited talk at the TU Dortmund (invitation by PD. Dr. Sonja Kuhnt) from April 23. to 26. 2012.
+* Research visit and invited talk at the TU Dortmund (invitation by PD. Dr. Sonja Kuhnt) from April 23 to 26 2012.
  
 [comment]:  Invited talk in the frame of the Collaborative Research Center SFB 708, TU Dortmund (Germany), April 25 2012
-[comment]:  I started to serve as Associate Editor of the [Journal of Statistical Computation and Simulation](http://www.tandfonline.com/toc/gscs20/current), on February 18. 2012 
+[comment]:  I started to serve as Associate Editor of the [Journal of Statistical Computation and Simulation](http://www.tandfonline.com/toc/gscs20/current), on February 18 2012 
 
-* Invited talk (session ES28) at the 4th International Conference on Computing and Statistics [ERCIM'11](http://www.cfe-csda.org/ercim11/cfp.html) in London, from December 17. to 19. 2011.
+* Invited talk (session ES28) at the 4th International Conference on Computing and Statistics [ERCIM'11](http://www.cfe-csda.org/ercim11/cfp.html) in London, December 17-19 2011.
 
-* Invited talk at the Séminaire "Mathématiques et Société" in Neuchâtel, on December 14. 2011.
+* Invited talk at the Séminaire "Mathématiques et Société" in Neuchâtel, on December 14 2011.
 
-* Inaugural meeting of the ReDICE project in Paris, December 6. 2011.
+* Inaugural meeting of the ReDICE project in Paris, December 6 2011.
 
 * An Introduction to Reproducing Kernel Hilbert Spaces, II at the University of Bern on November 16. 2011.
 
-* Ph.D. defense of Nicolas Durrande at the Ecole des Mines de Saint-Etienne, November 9. 2011. Title: "Étude de classes de noyaux adapés à la
+* Ph.D. defense of Nicolas Durrande at the Ecole des Mines de Saint-Etienne, November 9 2011. Title: "Étude de classes de noyaux adapés à la
 simplification et à l'interprétation des modèles d'approximation. Une approche fonctionnelle et probabiliste"
 
-* An Introduction to Reproducing Kernel Hilbert Spaces, I at the University of Bern on November 2. 2011.
+* An Introduction to Reproducing Kernel Hilbert Spaces, I at the University of Bern on November 2 2011.
 
-* Seminar talk about Customizing Kernels at the University of Bern on September 28. 2011.
+* Seminar talk about Customizing Kernels at the University of Bern on September 28 2011.
 
-* Participant in a workshop on [High-Dimensional Problems in Statistics](http://www.fim.math.ethz.ch/conferences/2011/High_dimensional) at ETH Zürich 
-from September 19. to 23. 2011.
+* Participant in a workshop on [High-Dimensional Problems in Statistics](http://www.fim.math.ethz.ch/conferences/2011/High_dimensional) at ETH Zürich, September 19-23 2011.
 
-* Beginning of the course on Spatial Statistics (together with D. Schuhmacher) in Bern on September 19. 2011.
+* Beginning of the course on Spatial Statistics (together with D. Schuhmacher) in Bern on September 19 2011.
 
-* Invited talk at the Operations Research seminar in Tilburg (NL) on September 15. 2011.
+* Invited talk at the Operations Research seminar in Tilburg (NL) on September 15 2011.
 
 * Workshop participant (INI-supported) in [Accelerating industrial productivity via deterministic computer experiments & stochastic simulation](https://www.newton.ac.uk/event/daew05/) at the 
-Isaac Newton Institute (Cambridge, UK) from September 3. to 9. 2011.   
+Isaac Newton Institute (Cambridge, UK), September 3-9 2011.   
 
 * Invited talk (and research week with T. Espinasse, F. Gamboa, and M.L. Stein) at the 
-Costa Brava project meeting "New Trends in Kriging" in Toulouse (France) from June 24. to 30. 2011. 
+Costa Brava project meeting "New Trends in Kriging" in Toulouse (France), June 24-30 2011. 
 
 * Two-part invited talk (with Victor Picheny) at the [Optimisation et évaluation d'événements rares](https://uq.math.cnrs.fr/mai10) workshop, ENSCP, Paris (France), Mai 4 2010. 
 
 * Invited talk at the Institut für Spanende Fertigung, TU Dortmund (Germany), January 25 2010.
 
-* Invited talk at the Autumn Symposium of the Statistical Modelling Research Training Group, Universitätskolleg Haus Bommerholz, Witten-Bommerholz, Germany, November 20-21 2009.
+* Invited talk at the Autumn Symposium of the Statistical Modelling Research Training Group, Universitätskolleg Haus Bommerholz, Germany, November 20-21 2009.
 
-* Co-organizer of a the [ENBIS-EMSE conference](https://events.mines-stetienne.fr/enbis-emse2009/committees.php), Saint-Etienne, France, 1-3 July 2009. 
+* Co-organizer of a the [ENBIS-EMSE conference](https://events.mines-stetienne.fr/enbis-emse2009/index.php), Saint-Etienne, France, 1-3 July 2009. 
 
 * Invited talk to the ["Uncertainty, Metamodels, and Design of Experiments"](https://uq.math.cnrs.fr/media/impec09.pdf) (IMPEC) Seminar, CEA Saclay (France), October 6 2009. 
 
