@@ -107,125 +107,71 @@ took place in Atlanta (USA) and online from April 12 to 15.
 
 [comment]: 2020 
 
-## Selected past events from the previous decade    
+## Selected events from the last decade and before    
                                      
- <li> Thursday September 19, 2019: Start of the Spatial Statistics course I taught at EPFL</li>
-<p> </p>
-<li> Our project partner <a href="http://www.stat.ucdavis.edu/~polonik/WP-personal-home.html">Prof. Wolfgang Polonik</a> gave a 
-deep crash-course at Idiap on Topological Data Analysis on July 17th, 2019. </li>
-<p> </p>
- <li> Co-chair (with <a href="https://www.math.univ-toulouse.fr/~azais/">J.M. Azaïs</a>, University of Toulouse) of MS181 “Integral and algebraic 
- geometric methods in the study of Gaussian random fields” that took place on July 11 2019 within the  
-<a href="https://www.siam.org/Conferences/CM/Conference/ag19/">SIAM conference on Applied Algebraic
-Geometry</a>, Bern, Switzerland</li>
-<p> </p>
- <li> Organizer of MS61 “Statistical machine learning for inversion and optimization
-under data and model heterogeneities” that took place on July 8 2019 within the <a href="https://www.aip2019-grenoble.fr/">Applied Inverse Problems
-conference</a>, Grenoble, France.</li>
-<p> </p>
-<li> Invited talk at the 
-<a href="https://sites.google.com/view/match2019/overview">Uncertainty Quantification, Machine Learning & Bayesian Statistics in
-Scientific Computing workshop</a>, Ruprecht-Karls-Universität Heidelberg, Germany, from July 1. to 5. 2019. </li>
-<p> </p>
-<li> Participation in the <a href="http://www.iam.fmph.uniba.sk/moda12"> 
-Model-Oriented Data Analysis and Optimum Design (mODa) Workshop</a>, 
-Smolenice Castle, Slovakia, from June 23. to 28. 2019. </li>
-<p> </p>
-<li> Thanks to financial and organizational support from the <a href="https://math.ch/">Swiss Mathematical Society</a> and Idiap, we had the great 
-pleasure to welcome <a href="http://www.gpeyre.com/">Prof. Gabriel Peyré</a> for a <a href="https://www.idiap.ch/talk/otml">public lecture</a> and a 
-crash-course on Optimal Transport for Machine Learning at Idiap, February 12.-13. 2019. 
-</li>
-<p> </p>
- <li> Invited seminar at Meteoswiss, Kloten, CH, October 30 2018. </li>
-<p> </p>
-<li> Keynote at the Swiss Geocomputing Centre kick-off workshop at University of Lausanne, CH, 15 October 2018. </li>
-<p> </p>
-<li> Invited talk at the   
-<a href="http://gpss.cc/gpss18/workshop.html">Advances in Kernel Methods workshop</a> (closing the GPUQ summer school)
-at the University of Sheffield, UK, 6 September 2018. </li>
-<p> </p>
-<li> Invited talk at the   
-<a href="http://gpss.cc/gpss18/program">Gaussian Process and Uncertainty Quantification Summer School</a>
-at the University of Sheffield, UK, 5 September 2018. </li>
-<p> </p>
-<li> Invited talk at the   
-<a href="http://didattica.unibocconi.eu/eventi/event.php?IdPag=5575&dip=55&id=5542&IdFld=17&See=Up">Statistics Seminar of the Department of Decision Sciences</a>
-at Bocconi University, Milano, IT, 14 June 2018. </li>
-<p> </p>
-<li> Invited talk at the  
-<a href="https://www.newton.ac.uk/event/unqw04/">UQ for inverse problems in complex systems</a>
-workshop at the Isaac Newton Institute, Cambridge, UK, 9-13 April 2018. </li>
-<p> </p>
-<li> Invited talk at the  
-<a href="https://www.newton.ac.uk/event/unqw02/timetable">Surrogate models for UQ in complex systems</a>
-workshop at the Isaac Newton Institute, Cambridge, UK, 5-9 February 2018. </li>
-<p> </p>
-<li> Invited talk at the  
-<a href="https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841a5e5cecfb015e762e5030626f">CRISM Seminar</a>,
-Warwick University, Coventry, UK, January 19 2018. </li>
-<p> </p>
-<li> Invited talk at the  
-<a href="https://www.newton.ac.uk/event/unqw01/timetable">Key UQ methodologies and motivating applications</a>
-workshop at the Isaac Newton Institute, Cambridge, UK, 8-12 January 2018. </li>
-<p> </p>
-<li> Invited participant in the Isaac Newton Institute programme 
-<a href="https://www.newton.ac.uk/event/unq">Uncertainty quantification for complex systems: theory and methodologies</a>
-at Cambridge, UK (stay planned for several weeks there distributed over January-February and April 2018). </li>
-<p> </p>
-<li> Invited talk at <a href="https://nips.cc/Conferences/2017/Schedule?showEvent=8773">NIPS workshop on Bayesian optimization for science and engineering</a>, December 9. 2017. </li>
-<p> </p>
-<li> <a href="http://www.idiap.ch/workshop/small-data/">Valais/Wallis Workshop on Artificial Intelligence 2</a> at Idiap, November 10. 2017. </li>
-<p> </p>
-<li> Invited speaker at the <a href="https://wiki.math.ntnu.no/selbusymposium/baardshaug2017/start/">Trondheim Symposium in Statistics 2017</a>, 
-and visiting Prof. <a href="http://www.ntnu.edu/employees/joeid">Jo Eidsvik</a>, NTNU Trondheim and Baardshaug, Norway, 4-7 October 2017.</li>
-<p> </p>
-<li> Invited talk and visit of Dr. Adam Amara and Prof. Alexandre Refregier at <a href="http://www.cosmology.ethz.ch/">Alexandre Refregier's Cosmology Research Group</a>, Institute for Astronomy, 
-ETH Zurich, 4-5 September 2017.</li>
-<p> </p>
-<li> Invited talk (session on statistical methods for high-dimensional computer experiments) at the <a href="http://www.isi2017.org/">61st World Statistics Congress - ISI2017</a>, 
-Marrakech, July 2017.</li>
-<p> </p>
-<li> Kick-off meeting of the summer of GPs at Idiap, June 28. 2017. </li>
-<p> </p>
-<li> Plenary invited talk (session on Stochastic programming and Optimization) at the 
-<a href="https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/Events/Bayesian+Inference+in+Stochastic+Processes+%28BISP+-+10%29/">
-Bayesian Inference in Stochastic Processes (BISP-10) workshop</a>, Milano, June 2017.</li>
-<p> </p>
-<li> PhD defense of <a href="https://sites.google.com/view/darioazzimonti/home">Dario Azzimonti<\a> at the University of Bern, November 17th 2016.</li>
-<p> </p>
-<li> Invited talk at the <a href="http://gpss.cc/gpuqss16/program">Gaussian Process and Uncertainty Quantification Summer School</a>, Sheffield, September 2016. </li>
-<p> </p>
-<li> Participation in the <a href="https://www.statistik.tu-dortmund.de/mODa11/"> 
-Model-Oriented Data Analysis and Optimum Design (MODA) Workshop</a>, 
-Hamminkeln-Dingden, Germany, from June 12. to 17. 2016.</li>
-<p> </p> 
-<li> Co-organizer (with Dario Azzimonti and Ilya Molchanov) of the Random Sets in Action (Estimation of sets, shapes and geometric features) workshop, Bern, June 2016. </li>
-<p> </p>
-<li> <a href="https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.110/aktuelles_und_archiv/vortraege/2016/Ginsbourger__15.04.2016.pdf">Invited talk</a> 
-and academic visit (<a href="http://www.uni-ulm.de/mawi/mawi-stochastik/mitarbeiter/evgeny-spodarev/">Prof. Spodarev</a>) at the University of Ulm, April 2016. </li>
-<p> </p>
-<li> Co-organizer with <a href="http://gucas.academia.edu/XuHe">Xu He</a> and <a href="http://www2.isye.gatech.edu/~jeffwu/">Jeff Wu</a> 
+* Thursday September 19, 2019: Start of the Spatial Statistics course I taught at EPFL
+* Our project partner [Prof. Wolfgang Polonik](http://www.stat.ucdavis.edu/~polonik/WP-personal-home.html) gave a 
+deep crash-course at Idiap on Topological Data Analysis on July 17th, 2019
+* Co-chair [J.M. Azaïs](https://www.math.univ-toulouse.fr/~azais/), University of Toulouse) of MS181 "Integral and algebraic 
+ geometric methods in the study of Gaussian random fields" that took place on July 11 2019 within the [SIAM conference on Applied Algebraic
+Geometry](https://www.siam.org/Conferences/CM/Conference/ag19/), Bern, Switzerland
+* Organizer of MS61 "Statistical machine learning for inversion and optimization
+under data and model heterogeneities" that took place on July 8 2019 within the [Applied Inverse Problems conference](https://www.aip2019-grenoble.fr/), Grenoble, France
+* Invited talk at the [Uncertainty Quantification, Machine Learning & Bayesian Statistics in
+Scientific Computing workshop](https://sites.google.com/view/match2019/overview), Ruprecht-Karls-Universität Heidelberg, Germany, from July 1. to 5. 2019 </li>
+* Participation in the [Model-Oriented Data Analysis and Optimum Design (mODa) Workshop](http://www.iam.fmph.uniba.sk/moda12), 
+Smolenice Castle, Slovakia, from June 23. to 28. 2019 
+* Thanks to financial and organizational support from the [Swiss Mathematical Society](https://math.ch/) and Idiap, we had the great 
+pleasure to welcome [Prof. Gabriel Peyré](http://www.gpeyre.com/) for a [public lecture](https://www.idiap.ch/talk/otml) and a 
+crash-course on Optimal Transport for Machine Learning at Idiap, February 12.-13. 2019 
+* Invited seminar at Meteoswiss, Kloten, CH, October 30 2018 
+* Keynote at the Swiss Geocomputing Centre kick-off workshop at University of Lausanne, CH, 15 October 2018
+* Invited talk at the [Advances in Kernel Methods workshop](http://gpss.cc/gpss18/workshop.html) (closing the GPUQ summer school)
+at the University of Sheffield, UK, 6 September 2018
+* Invited talk at the [Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/gpss18/program)
+at the University of Sheffield, UK, 5 September 2018
+* Invited talk at the [Statistics Seminar of the Department of Decision Sciences](http://didattica.unibocconi.eu/eventi/event.php?IdPag=5575&dip=55&id=5542&IdFld=17&See=Up)
+at Bocconi University, Milano, IT, 14 June 2018 
+* Invited talk at the [UQ for inverse problems in complex systems](https://www.newton.ac.uk/event/unqw04/)
+workshop at the Isaac Newton Institute, Cambridge, UK, 9-13 April 2018
+* Invited talk at the [Surrogate models for UQ in complex systems](https://www.newton.ac.uk/event/unqw02/timetable)
+workshop at the Isaac Newton Institute, Cambridge, UK, 5-9 February 2018
+* Invited talk at the [CRISM Seminar](https://warwick.ac.uk/fac/sci/statistics/event_diary/?calendarItem=8a17841a5e5cecfb015e762e5030626f),
+Warwick University, Coventry, UK, January 19 2018
+* Invited talk at the [Key UQ methodologies and motivating applications](https://www.newton.ac.uk/event/unqw01/timetable)
+workshop at the Isaac Newton Institute, Cambridge, UK, 8-12 January 2018
+* Invited participant in the Isaac Newton Institute programme [Uncertainty quantification for complex systems: theory and methodologies](https://www.newton.ac.uk/event/unq)
+at Cambridge, UK (stay for several weeks distributed over January-February and April 2018)
+* Invited talk at [NIPS workshop on Bayesian optimization for science and engineering](https://nips.cc/Conferences/2017/Schedule?showEvent=8773), December 9. 2017
+* Co-organizer of the [Valais/Wallis Workshop on Artificial Intelligence 2](http://www.idiap.ch/workshop/small-data/) at Idiap, November 10. 2017
+* Invited speaker at the [Trondheim Symposium in Statistics 2017](https://wiki.math.ntnu.no/selbusymposium/baardshaug2017/start/), 
+and visiting Prof. [Jo Eidsvik](http://www.ntnu.edu/employees/joeid), NTNU Trondheim and Baardshaug, Norway, 4-7 October 2017
+* Invited talk and visit of Dr. Adam Amara and Prof. Alexandre Refregier at [Alexandre Refregier's Cosmology Research Group](http://www.cosmology.ethz.ch/), Institute for Astronomy, 
+ETH Zurich, 4-5 September 2017
+* Invited talk (session on statistical methods for high-dimensional computer experiments) at the [61st World Statistics Congress - ISI2017](http://www.isi2017.org/), 
+Marrakech, July 2017
+* Kick-off meeting of the summer of GPs at Idiap, June 28. 2017
+* Plenary invited talk (session on Stochastic programming and Optimization) at the [Bayesian Inference in Stochastic Processes (BISP-10) workshop](https://www.unibocconi.eu/wps/wcm/connect/Bocconi/SitoPubblico_EN/Navigation+Tree/Home/Faculty+and+Research/Departments/Decision+Sciences/Events/Bayesian+Inference+in+Stochastic+Processes+%28BISP+-+10%29/), Milano, June 2017
+* PhD defense of [Dario Azzimonti](https://sites.google.com/view/darioazzimonti/home) at the University of Bern, November 17th 2016
+* Invited talk at the [Gaussian Process and Uncertainty Quantification Summer School](http://gpss.cc/gpuqss16/program), Sheffield, September 2016
+* Participation in the 11th [Model-Oriented Data Analysis and Optimum Design (MODA) Workshop](https://www.statistik.tu-dortmund.de/mODa11/), Hamminkeln-Dingden, Germany, from June 12. to 17. 2016
+* Co-organizer (with Dario Azzimonti and Ilya Molchanov) of the Random Sets in Action (Estimation of sets, shapes and geometric features) workshop, Bern, June 2016
+* [Invited talk](https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.110/aktuelles_und_archiv/vortraege/2016/Ginsbourger__15.04.2016.pdf) and academic visit of
+[Prof. Spodarev](http://www.uni-ulm.de/mawi/mawi-stochastik/mitarbeiter/evgeny-spodarev/) at the University of Ulm, April 2016
+* Co-organizer with [Xu He](http://gucas.academia.edu/XuHe) and [Jeff Wu](http://www2.isye.gatech.edu/~jeffwu/) 
 of the Mini-Symposium "Design of Computer Experiments and Sequential Strategies with Gaussian Process Models" 
-(Parts <a href="http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22255">I</a>, 
-<a href="http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22256">II</a> and 
-<a href="http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22257">III</a>) 
-and with <a href="https://www.ethz.ch/content/specialinterest/baug/institute-ibk/risk-safety-and-uncertainty/en/people/prof-dr-bruno-sudret.html">Bruno Sudret</a> 
+(Parts [I](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22255), 
+[II](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22256) and 
+[III](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22257) 
+and with [Bruno Sudret](https://www.ethz.ch/content/specialinterest/baug/institute-ibk/risk-safety-and-uncertainty/en/people/prof-dr-bruno-sudret.html) 
 of the Mini-Symposium "Gaussian Processes: Feature Extraction vs Sensitivity Analysis" 
-(Parts <a href="http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22317">I</a> and 
-<a href="http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22318">II</a>) 
-at the 
-<a href="https://www.siam.org/meetings/uq16/">SIAM Conference on Uncertainty Quantification (UQ16)</a>, Lausanne, April 2016. </li>
-<p> </p>      
-<li> Invited talk at the Mathematics seminar of <a href="https://nyuad.nyu.edu/en/academics/divisions/science/academic-programs/math.html"> 
-New York University Abu Dhabi</a>, UAE, December 15 2015.</li>    
-<p> </p>
-<li> PhD defense of <a href="https://sites.google.com/site/mickaelbinoishomepage/home">Mickael Binois</a>, Ecole des Mines de Saint-Etienne, December 3 2015.</li>
-<p> </p>
-<li> Invited talk at the <a href="http://nccr-planets.ch/event/stats2015/"> 
-1st PlanetS workshop on Bayesian Statistics</a>, University of Bern, November 26 2015.</li>
-<p> </p>
-<li> Invited talk at the Institute of Earth Surface Dynamics, University of Lausanne, September 30 2015.</li>
-<p> </p>
+(Parts [I](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22317) and 
+[II](http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=22318)) 
+at the [SIAM Conference on Uncertainty Quantification (UQ16)](https://www.siam.org/meetings/uq16/), Lausanne, April 2016     
+* Invited talk at the Mathematics seminar of [New York University Abu Dhabi](https://nyuad.nyu.edu/en/academics/divisions/science/academic-programs/math.html), UAE, December 15 2015  
+* PhD defense of [Mickael Binois](https://sites.google.com/site/mickaelbinoishomepage/home), Ecole des Mines de Saint-Etienne, December 3 2015
+* Invited talk at the [1st PlanetS workshop on Bayesian Statistics](http://nccr-planets.ch/event/stats2015/), University of Bern, November 26 2015
+* Invited talk at the Institute of Earth Surface Dynamics, University of Lausanne, September 30 2015
 <li> Invited talks at the <a href="http://gpss.cc/gpss15/">Gaussian Process Summer School</a> and the 
 <a href="http://gpss.cc/gpgo15/"> Workshop on Gaussian Processes for Global Optimization</a>, Sheffield, September 14-17 2015.</li>
 <p> </p>
