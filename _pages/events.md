@@ -122,8 +122,6 @@ took place in Atlanta (USA) and online from April 12 to 15.
 * Invited talk at the Department of Statistics and Operations Research, University of Vienna (Austria), April 2019, 2019. 
 
 * Invited talk at the Mathematics Department, University of Luxembourg, March 28 2019. 
-   
-[comment]: 
                                   
 * Thursday September 19, 2019: Start of the Spatial Statistics course I taught at EPFL
 
