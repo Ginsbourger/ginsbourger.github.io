@@ -111,10 +111,20 @@ took place in Atlanta (USA) and online from April 12 to 15.
 
 * Invited talk at Caltech's [CM+X seminar](https://cmx.caltech.edu/pastevents2021.html), Pasadena (online), January 27.  
 
-[comment]: 2020 
+## Selected events from the last decade and before  
 
-## Selected events from the last decade and before    
-                                     
+* Invited talk, Swiss Data Science Center at ETH Zürich (Switzerland), March 3 2020.
+
+* Invited talk, [Mathematical Colloquium at Karlsruhe Intitute of Technology](https://www.math.kit.edu/fakmath/edu/math-kolldauer/event/kollginsbourger/en), Germany, November 4 2019.
+
+* Invited talk, Symposium Data Science for the Natural Sciences, University of Zürich (Switzerland), August 28th, 2019.
+
+* Invited talk at the Department of Statistics and Operations Research, University of Vienna (Austria), April 2019, 2019. 
+
+* Invited talk at the Mathematics Department, University of Luxembourg, March 28 2019. 
+   
+[comment]: 
+                                  
 * Thursday September 19, 2019: Start of the Spatial Statistics course I taught at EPFL
 
 * Our project partner [Prof. Wolfgang Polonik](http://www.stat.ucdavis.edu/~polonik/WP-personal-home.html) gave a 
