@@ -35,7 +35,7 @@ are participating in our collaboration.
 * [Jasmin Christen](https://www.imsv.unibe.ch/ueber_uns/personen/christen_jasmin/index_ger.html)
 
 In her master thesis (co-mentored with [L. Friedli](https://leafriedli.com/)) and in follow-up months, Jasmin worked on Gaussian Process models for interval-valued data with
-applications in chemical space exploration (collaboration with the [Reymond Group](https://gdb.unibe.ch/)). She then joined the Swiss National Bank as an intern.   
+applications in chemical space exploration (collab. with the [Reymond Research Group](https://gdb.unibe.ch/)). She then joined the Swiss National Bank as an intern.   
 
 * [Lea Friedli](https://leafriedli.com/)
 
