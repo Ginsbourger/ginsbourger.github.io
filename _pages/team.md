@@ -6,11 +6,6 @@ author_profile: true
 
 ## Research team 
 
-* [Jasmin Christen](https://www.imsv.unibe.ch/ueber_uns/personen/christen_jasmin/index_ger.html)
-
-In her master thesis (co-mentored with [L. Friedli](https://leafriedli.com/)), Jasmin worked on Gaussian Process models for interval-valued data with
-applications in chemical space exploration. She is now working at IMSV as scientific assistant, in collaboration with the [Reymond Research Group](https://gdb.unibe.ch/).  
-
 * [Antoine Faul](https://www.imsv.unibe.ch/about_us/staff/faul_antoine_lo/index_eng.html)
 
 PhD student at UniBE jointly advised with [B. Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html), with a focus is on statistical modelling for personalized medicine in the framework of the Mutidisciplinary Center for Infectious Diseases. 
@@ -35,6 +30,12 @@ we also enjoy statistical interactions with our colleagues [Anja Mühlemann](htt
 are participating in our collaboration.   
 
 ## Past team members and alumni 
+
+
+* [Jasmin Christen](https://www.imsv.unibe.ch/ueber_uns/personen/christen_jasmin/index_ger.html)
+
+In her master thesis (co-mentored with [L. Friedli](https://leafriedli.com/)) and in follow-up months, Jasmin worked on Gaussian Process models for interval-valued data with
+applications in chemical space exploration (collaboration with the [Reymond Research Group](https://gdb.unibe.ch/)). She then joined the Swiss National Bank as an intern.   
 
 * [Lea Friedli](https://leafriedli.com/)
 
