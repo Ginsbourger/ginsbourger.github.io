@@ -26,7 +26,7 @@ At the University of Bern, I am also a member of
 * the [Oeschger Center for Climate Change Research](http://www.oeschger.unibe.ch/),
 * the [Center for Artificial Intelligence in Medecine](https://www.caim.unibe.ch/),
 * and the [Multidisciplinary Center for Infectious Diseases](https://www.mcid.unibe.ch/).
-https://www.oeschger.unibe.ch/research/clusters_and_platforms/platform_data_science/index_eng.html
+
 
 On the editorial side, 
 I am serving as Associate Editor of [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/Publications/Journals/SIAM-ASA-Journal-on-Uncertainty-Quantification-JUQ) (2019-),
