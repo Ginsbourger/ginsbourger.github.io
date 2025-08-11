@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am heading the Uncertainty Quantification and Spatial Statistics Group and serving as Director of Studies in Statistics at the [University of Bern](http://www.unibe.ch), 
-where I am co-directing the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html).  
+I am heading the Uncertainty Quantification and Spatial Statistics Group at the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html) 
+of the [University of Bern](http://www.unibe.ch).  
 My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
 
-Currently and until August 2025, I am on sabbatical and will spend a substantial part of it at [Isaac Newton Institute](https://www.newton.ac.uk/) (Cambridge, UK), 
-where I am organizing the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
+In recent months, I spent a substantial part of my time at [Isaac Newton Institute](https://www.newton.ac.uk/) (Cambridge, UK), 
+where I have been organizing the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
 together with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), [Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) 
 and [Richard Wilkinson](https://rich-d-wilkinson.github.io/). 
 
@@ -26,12 +26,11 @@ At the University of Bern, I am also a member of
 * the [Oeschger Center for Climate Change Research](http://www.oeschger.unibe.ch/),
 * the [Center for Artificial Intelligence in Medecine](https://www.caim.unibe.ch/),
 * and the [Multidisciplinary Center for Infectious Diseases](https://www.mcid.unibe.ch/).
+https://www.oeschger.unibe.ch/research/clusters_and_platforms/platform_data_science/index_eng.html
 
-On the editorial side, I am serving as Associate Editor of
-* [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/Publications/Journals/SIAM-ASA-Journal-on-Uncertainty-Quantification-JUQ),
-* [Technometrics](https://www.tandfonline.com/journals/utch20"),
-  
-and regularly as Area Chair / Meta-Reviewer for major Machine Learning conferences (e.g., [ICML 2025](https://icml.cc/Conferences/2025), [AISTATS 2025](http://aistats.org/aistats2025/)).
+On the editorial side, 
+I am serving as Associate Editor of [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/Publications/Journals/SIAM-ASA-Journal-on-Uncertainty-Quantification-JUQ) (2019-),
+[Technometrics](https://www.tandfonline.com/journals/utch20") (2022-2025), and regularly as Area Chair / Meta-Reviewer for major Machine Learning conferences (e.g., [ICML 2025](https://icml.cc/Conferences/2025), [AISTATS 2025](http://aistats.org/aistats2025/)). 
 
 A significant part of my research deals with random field (including in particular Gaussian Process) modelling and adaptive design 
 of experiments, with a focus on Bayesian global optimization and related topics such as Bayesian set estimation. Further interests include design and estimation of covariance kernels and parameters,  as well as the theory of Reproducing Kernel Hilbert Spaces. 
