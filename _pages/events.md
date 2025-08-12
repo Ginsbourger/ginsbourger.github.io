@@ -13,7 +13,7 @@ Below is a list of selected events I will be or was involved in, in one way or a
 of the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
 to be held from May 6th to August 29th 2025 at [Isaac Newton Institute](https://www.newton.ac.uk/), Cambridge, UK. 
 
-* Participant/speaker in the workshop [Mathematical and Computational Foundations of Digital Twins](https://conferences.cirm-math.fr/3449.html), CIRM, Luminy, France, August 11-15, 2025. 
+* Participant/speaker in the workshop [Mathematical and Computational Foundations of Digital Twins](https://conferences.cirm-math.fr/3449.html), CIRM, Luminy, France, August 11-15. 
 
 ## Past events from the current decade (still filling some gaps)
 
