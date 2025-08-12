@@ -6,18 +6,20 @@ author_profile: true
 
 Below is a list of selected events I will be or was involved in, in one way or another :-)
 
-## Forthcoming 
+## Forthcoming / ongoing 
 
 * Organiser (with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), 
 [Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) and [Richard Wilkinson](https://rich-d-wilkinson.github.io/)) 
 of the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
 to be held from May 6th to August 29th 2025 at [Isaac Newton Institute](https://www.newton.ac.uk/), Cambridge, UK. 
 
-* Invited talk at the [Computational Statistics and Machine Learning seminar series](https://ucl-ellis.github.io/jt_csml_seminar_home/), UCL AI Center, London, UK, May 2. 
+* Participant/speaker in the workshop [Mathematical and Computational Foundations of Digital Twins](https://conferences.cirm-math.fr/3449.html), CIRM, Luminy, France, August 11-15, 2025. 
 
 ## Past events from the current decade (still filling some gaps)
 
 ### 2025 
+
+* Invited talk at the [Computational Statistics and Machine Learning seminar series](https://ucl-ellis.github.io/jt_csml_seminar_home/), UCL AI Center, London, UK, May 2. 
 
 * Organizer (with [Mihai Anitescu](https://web.cels.anl.gov/~anitescu/), 
 [Fred Hickernell](https://www.iit.edu/directory/people/fred-hickernell), 
