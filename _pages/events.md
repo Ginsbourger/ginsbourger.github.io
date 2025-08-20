@@ -8,7 +8,7 @@ Below is a list of selected events I will be or was involved in, in one way or a
 
 ## Forthcoming / ongoing 
 
-* Invited Plenary speaker at the SIAM Conference on Uncertainty Quantification, Minneapolis, Minnesota, USA, March 22–25 2026. 
+* Invited Plenary speaker at the [SIAM Conference on Uncertainty Quantification](https://www.siam.org/conferences-events/siam-conferences/uq26/program/), Minneapolis, Minnesota, USA, March 22–25 2026. 
 
 * Organiser (with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), 
 [Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) and [Richard Wilkinson](https://rich-d-wilkinson.github.io/)) 
