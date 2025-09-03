@@ -10,14 +10,18 @@ Below is a list of selected events I will be or was involved in, in one way or a
 
 * Invited Plenary speaker at the [SIAM Conference on Uncertainty Quantification](https://www.siam.org/conferences-events/siam-conferences/uq26/program/), Minneapolis, Minnesota, USA, March 22–25 2026. 
 
-* Organiser (with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), 
-[Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) and [Richard Wilkinson](https://rich-d-wilkinson.github.io/)) 
-of the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
-to be held from May 6th to August 29th 2025 at [Isaac Newton Institute](https://www.newton.ac.uk/), Cambridge, UK. 
+* Participant in the [Science Roundtable ``Creativity in science: significance, virtue and boundaries''](https://www.ub.unibe.ch/services/exhibitions_and_events/science_roundtable/creativity_in_science/index_eng.html) organized by University Library Bern on October 22 2025. 
+
+
 
 ## Past events from the current decade (still filling some gaps)
 
 ### 2025 
+
+* Organiser (with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), 
+[Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) and [Richard Wilkinson](https://rich-d-wilkinson.github.io/)) 
+of the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
+that was held from May 6th to August 29th 2025 at [Isaac Newton Institute](https://www.newton.ac.uk/), Cambridge, UK. 
 
 * Participant/speaker in the workshop [Mathematical and Computational Foundations of Digital Twins](https://conferences.cirm-math.fr/3449.html), CIRM, Luminy, France, August 11-15. 
 
