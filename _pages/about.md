@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 I am currently serving as Director of the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html) 
-of the [University of Bern](http://www.unibe.ch), where I am also heading the Uncertainty Quantification and Spatial Statistics Group.  
-My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
+of the [University of Bern](http://www.unibe.ch), where I am heading the Uncertainty Quantification and Spatial Statistics Group. My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
 
 In recent months, I spent a substantial part of my time at [Isaac Newton Institute](https://www.newton.ac.uk/) (Cambridge, UK), 
 where I have been organizing the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
