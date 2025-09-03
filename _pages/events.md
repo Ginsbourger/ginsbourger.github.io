@@ -10,7 +10,7 @@ Below is a list of selected events I will be or was involved in, in one way or a
 
 * Invited Plenary speaker at the [SIAM Conference on Uncertainty Quantification](https://www.siam.org/conferences-events/siam-conferences/uq26/program/), Minneapolis, Minnesota, USA, March 22–25 2026. 
 
-* Participant in the [Science Roundtable ``Creativity in science: significance, virtue and boundaries''](https://www.ub.unibe.ch/services/exhibitions_and_events/science_roundtable/creativity_in_science/index_eng.html) organized by University Library Bern on October 22 2025. 
+* Participant/speaker in the [Science Roundtable ``Creativity in science: significance, virtue and boundaries''](https://www.ub.unibe.ch/services/exhibitions_and_events/science_roundtable/creativity_in_science/index_eng.html) organized by University Library Bern on October 22 2025. 
 
 
 
