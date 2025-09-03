@@ -21,16 +21,14 @@ In 2025, I joined the [Swiss Academy of Sciences](https://scnat.ch/en) as an ele
 I am also an elected member of the [International Statistical Institute](https://isi-web.org/) (2023-), a member of the [ELLIS Society](https://ellis.eu/) (2024-), and have been a member of the 
 [Society for Industrial and Applied Mathematics](https://www.siam.org/), the [Swiss Mathematical Society](https://www.math.ch/), and the [International Association of Mathematical Geology](https://iamg.org/) for a number of years. 
 
-
-At the University of Bern, I am also a member of  
-* the [Oeschger Center for Climate Change Research](http://www.oeschger.unibe.ch/),
-* the [Center for Artificial Intelligence in Medecine](https://www.caim.unibe.ch/),
-* and the [Multidisciplinary Center for Infectious Diseases](https://www.mcid.unibe.ch/).
-
+At the University of Bern, I am also serving on the scientific committee of the [Oeschger Center for Climate Change Research](http://www.oeschger.unibe.ch/), where we are setting up a 
+[Platform on Statistical Data Science and Machine Learning](https://www.oeschger.unibe.ch/research/clusters_and_platforms/platform_data_science/index_eng.html). 
+Also, I am a member of the [Center for Artificial Intelligence in Medecine](https://www.caim.unibe.ch/) and the [Multidisciplinary Center for Infectious Diseases](https://www.mcid.unibe.ch/).
 
 On the editorial side, 
 I am serving as Associate Editor of [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/Publications/Journals/SIAM-ASA-Journal-on-Uncertainty-Quantification-JUQ) (2019-),
-[Technometrics](https://www.tandfonline.com/journals/utch20") (2022-2025), and regularly as Area Chair / Meta-Reviewer for major Machine Learning conferences (e.g., [ICML 2025](https://icml.cc/Conferences/2025), [AISTATS 2025](http://aistats.org/aistats2025/)). 
+[Technometrics](https://www.tandfonline.com/journals/utch20") (2022-2025), and regularly as Area Chair / Meta-Reviewer for major Machine Learning conferences 
+(e.g., [ICML 2025](https://icml.cc/Conferences/2025), [AISTATS 2025](http://aistats.org/aistats2025/), [NeurIPS 2025](https://neurips.cc/)). 
 
 A significant part of my research deals with random field (including in particular Gaussian Process) modelling and adaptive design 
 of experiments, with a focus on Bayesian global optimization and related topics such as Bayesian set estimation. Further interests include design and estimation of covariance kernels and parameters,  as well as the theory of Reproducing Kernel Hilbert Spaces. 
