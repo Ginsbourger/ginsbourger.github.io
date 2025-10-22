@@ -26,10 +26,14 @@ are participating in our collaboration.
 
 ## Past team members and alumni 
 
+* Muriel Défago 
+
+Muriel wrote her master thesis in statistics and data science on the analysis of a changing correlation algorithm for non-Gaussian distribution modelling.  
+
 * [Lorenz Hilfiker](https://www.fhnw.ch/de/personen/lorenz-hilfiker)
 
-After his master thesis in statistics and data science at UniBE on graph kernels, Lorenz joined
-[Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group. 
+After his master thesis in statistics and data science on graph kernels, Lorenz joined
+[Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group at UniBE. 
 He is now working at the University of Applied Sciences FHNW.   
 
 * [Jasmin Christen](https://www.imsv.unibe.ch/ueber_uns/personen/christen_jasmin/index_ger.html)
