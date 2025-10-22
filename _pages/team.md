@@ -10,11 +10,6 @@ author_profile: true
 
 PhD student at UniBE jointly advised with [B. Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html), with a focus is on statistical modelling for personalized medicine in the framework of the Mutidisciplinary Center for Infectious Diseases. 
 
-* [Lorenz Hilfiker](https://www.imsv.unibe.ch/about_us/staff/dr_hilfiker_lorenz_damian/index_eng.html)
-
-With a background in mathematical physics, Lorenz recently finished studying statistics and data science while working part time in research, teaching, and consultancy. He is now employed in 
-[Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group but still involved in activities of our team.  
-
 * [Eliane Maalouf](https://www.unine.ch/imi/en/home/equipe/eliane-maalouf.html)
 
 PhD student at the University of Neuchatel. 
@@ -31,6 +26,11 @@ are participating in our collaboration.
 
 ## Past team members and alumni 
 
+* [Lorenz Hilfiker](https://www.fhnw.ch/de/personen/lorenz-hilfiker)
+
+After his master thesis in statistics and data science at UniBE on graph kernels, Lorenz joined
+[Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group. 
+He is now working at the University of Applied Sciences FHNW.   
 
 * [Jasmin Christen](https://www.imsv.unibe.ch/ueber_uns/personen/christen_jasmin/index_ger.html)
 
