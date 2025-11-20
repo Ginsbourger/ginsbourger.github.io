@@ -10,6 +10,11 @@ author_profile: true
 
 PhD student at UniBE jointly advised with [B. Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html), with a focus is on statistical modelling for personalized medicine in the framework of the Mutidisciplinary Center for Infectious Diseases. 
 
+* [Chet Gillespie] 
+
+Chet recently started a master's thesis in statistics and data science in collaboration with the [Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group at UniBE 
+(co-mentored with Adrian Huerta and Stefan Brönnimann). 
+
 * [Eliane Maalouf](https://www.unine.ch/imi/en/home/equipe/eliane-maalouf.html)
 
 PhD student at the University of Neuchatel. 
@@ -18,6 +23,10 @@ Eliane is working towards a PhD (UniNE director: [K. Stoffel](https://www.unine.
 * [Tim Steinert](https://www.imsv.unibe.ch/ueber_uns/personen/steinert_tim_michael/index_ger.html)
 
 Tim is working towards a PhD in statistics with focus on kernel design and inference in the framework of a collaborative project on "perception in statistics and econometrics". 
+
+* [Jan Vanhove](https://www.unifr.ch/directory/en/people/17427/56ae4)
+
+Jan recently started a master's thesis in statistics and data science (co-mentored with Antoine Faul).  
 
 **Important Note**: with Antoine, Ben and others from joint projects with [Petra Stute](http://www.frauenheilkunde.insel.ch/de/ueber-uns/team/details/person/detail/petra-stute)'s team, 
 we also enjoy statistical interactions with our colleagues [Anja Mühlemann](https://www.imsv.unibe.ch/ueber_uns/personen/dr_muehlemann_anja/index_ger.html), 
