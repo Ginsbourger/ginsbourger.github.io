@@ -10,7 +10,7 @@ author_profile: true
 
 PhD student at UniBE jointly advised with [B. Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html), with a focus is on statistical modelling for personalized medicine in the framework of the Mutidisciplinary Center for Infectious Diseases. 
 
-* [Chet Gillespie] 
+* [Chet Gillespie](https://www.imsv.unibe.ch/about_us/staff/gillespie_chet/index_eng.html) 
 
 Chet recently started a master's thesis in statistics and data science in collaboration with the [Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group at UniBE 
 (co-mentored with Adrian Huerta and Stefan Brönnimann). 
