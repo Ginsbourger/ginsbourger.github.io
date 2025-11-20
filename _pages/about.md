@@ -27,7 +27,7 @@ Also, I am a member of the [Center for Artificial Intelligence in Medecine](http
 On the editorial side, 
 I am serving as Associate Editor of [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/Publications/Journals/SIAM-ASA-Journal-on-Uncertainty-Quantification-JUQ) (2019-),
 [Technometrics](https://www.tandfonline.com/journals/utch20") (2022-2025), and regularly as Area Chair / Meta-Reviewer for major Machine Learning conferences 
-(e.g., [ICML 2025](https://icml.cc/Conferences/2025), [AISTATS 2025](http://aistats.org/aistats2025/), [NeurIPS 2025](https://neurips.cc/)). 
+(such as [ICML](https://icml.cc/Conferences/2025), [AISTATS](http://aistats.org/aistats2025/), [NeurIPS](https://neurips.cc/)). I am serving as Senior Area Chair for [AISTATS 2026](http://aistats.org/aistats2026/).
 
 A significant part of my research deals with random field (including in particular Gaussian Process) modelling and adaptive design 
 of experiments, with a focus on Bayesian global optimization and related topics such as Bayesian set estimation. Further interests include design and estimation of covariance kernels and parameters,  as well as the theory of Reproducing Kernel Hilbert Spaces. 
