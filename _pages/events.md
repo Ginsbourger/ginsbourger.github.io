@@ -10,13 +10,18 @@ Below is a list of selected events I will be or was involved in, in one way or a
 
 * Invited Plenary speaker at the [SIAM Conference on Uncertainty Quantification](https://www.siam.org/conferences-events/siam-conferences/uq26/program/), Minneapolis, Minnesota, USA, March 22–25 2026. 
 
-* Participant/speaker in the [Science Roundtable "Creativity in science: significance, virtue and boundaries"](https://www.ub.unibe.ch/services/exhibitions_and_events/science_roundtable/creativity_in_science/index_eng.html) organized by University Library Bern on October 22 2025. 
-
+* Organiser (with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc) and [Richard Wilkinson](https://rich-d-wilkinson.github.io/)) 
+of the workshop [AI Across Scales: From Molecules to Planet Earth](https://www.newton.ac.uk/event/RCLW05/), [Isaac Newton Institute](https://www.newton.ac.uk/), Cambridge, UK, February 9-12, 2026. 
 
 
 ## Past events from the current decade (still filling some gaps)
 
 ### 2025 
+
+* Participant/speaker in the [Science Roundtable "Creativity in science: significance, virtue and boundaries"](https://www.ub.unibe.ch/services/exhibitions_and_events/science_roundtable/creativity_in_science/index_eng.html) organized by University Library Bern on October 22 2025. 
+
+* External examiner on the committee of [Romain Ait Abdelmalek-Lomenech](https://theses.fr/s302828), who successfully defended his PhD (Paris-Saclay) on September 15. 
+
 
 * Organiser (with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), 
 [Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) and [Richard Wilkinson](https://rich-d-wilkinson.github.io/)) 
@@ -43,6 +48,8 @@ that took place from March 31 to April 4, 2025 at the [Institute for Mathematica
 ### 2024 
 
 * Visit, talk and crash-course of [Geir Evensen](https://www.imsv.unibe.ch/ueber_uns/news/artikel/ensemble_parameter_estimation_conditioning_models_on_dynamic_date/index_ger.html) at UniBE, Bern, December 11-13.
+
+* Rapporteur on the [PhD thesis](https://theses.fr/s247372) of Clément Duhamel, who successfully defended his PhD (Université Grenoble Alpes) on November 21. 
 
 * Invited speaker at the [Gaussian Process Summer School 2024](https://gpss.cc/gpss24/) (GPSS, Manchester, UK, September 9-12, 2024).
 
