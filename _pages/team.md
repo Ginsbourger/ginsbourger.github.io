@@ -33,7 +33,7 @@ are participating in our collaboration.
 
 * [Eliane Maalouf](https://www.unine.ch/imi/en/home/equipe/eliane-maalouf.html)
  
-Eliane defended her PhD in June 2026 at the University of Neuchâtel (co-supervision, UniNE co-director: K. Stoffel) 
+Eliane defended her PhD in June 2026 at the University of Neuchâtel (UniNE co-director: K. Stoffel) 
 on generative modelling for inverse problems. She now works in the pharmaceutical industry. 
 
 * Muriel Défago 
