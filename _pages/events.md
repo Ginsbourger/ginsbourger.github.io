@@ -8,20 +8,34 @@ Below is a list of selected events I will be or was involved in, in one way or a
 
 ## Forthcoming / ongoing 
 
+* Co-chair (with Cheng Li, Roshan Joseph, Jeff Wu) of the two-week program on [Uncertainty Quantification via Gaussian Processes and Beyond](https://ims.nus.edu.sg/events/uqgaussianbeyond/) at the Institute for Mathematical Sciences (IMS), National University of Singapore, from June 7-18, 2027.
+
+* Plenary Speaker at [Mathematics for planet Earth (M4E)](https://www.mate.polimi.it/events/M4E26/) at Polytecnico di Milano, Italy, November 9-11, 2026.  
+
+* Giving a talk at the [Pisa/Bern Meeting on Probability and Statistics](https://sites.google.com/view/pibeworkshop/home), 
+
+
+## Past events from the current decade (still filling some gaps)
+
+### 2026 
+
+* Local organizing committee of [mODa14](https://martinavandebroek.github.io/mODa14/) in Drongen, Belgium, June 15-19, 2026. 
+
+* Invited talk at the [NUMRAD Summer School](https://numrad.epfl.ch/), EPFL, June 3 2026.  
+
+* Seminar talk when visiting [Youssef Marzouk](https://aeroastro.mit.edu/people/youssef-m-marzouk/)'s group at MIT, Cambridge, Massachusetts, USA, March 30 2026.   
+
 * Invited Plenary speaker at the [SIAM Conference on Uncertainty Quantification](https://www.siam.org/conferences-events/siam-conferences/uq26/program/), Minneapolis, Minnesota, USA, March 22–25 2026. 
 
 * Organiser (with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc) and [Richard Wilkinson](https://rich-d-wilkinson.github.io/)) 
 of the workshop [AI Across Scales: From Molecules to Planet Earth](https://www.newton.ac.uk/event/RCLW05/), [Isaac Newton Institute](https://www.newton.ac.uk/), Cambridge, UK, February 9-12, 2026. 
 
 
-## Past events from the current decade (still filling some gaps)
-
 ### 2025 
 
 * Participant/speaker in the [Science Roundtable "Creativity in science: significance, virtue and boundaries"](https://www.ub.unibe.ch/services/exhibitions_and_events/science_roundtable/creativity_in_science/index_eng.html) organized by University Library Bern on October 22 2025. 
 
 * External examiner on the committee of [Romain Ait Abdelmalek-Lomenech](https://theses.fr/s302828), who successfully defended his PhD (Paris-Saclay) on September 15. 
-
 
 * Organiser (with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), 
 [Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) and [Richard Wilkinson](https://rich-d-wilkinson.github.io/)) 
