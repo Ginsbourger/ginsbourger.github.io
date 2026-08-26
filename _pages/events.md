@@ -10,14 +10,20 @@ Below is a list of selected events I will be or was involved in, in one way or a
 
 * Co-chair (with Cheng Li, Roshan Joseph, Jeff Wu) of the two-week program on [Uncertainty Quantification via Gaussian Processes and Beyond](https://ims.nus.edu.sg/events/uqgaussianbeyond/) at the Institute for Mathematical Sciences (IMS), National University of Singapore, from June 7-18, 2027.
 
-* Plenary Speaker at [Mathematics for planet Earth (M4E)](https://www.mate.polimi.it/events/M4E26/) at Polytecnico di Milano, Italy, November 9-11, 2026.  
+* Invited talk at the [ZüKoSt: Seminar on Applied Statistics](https://math.ethz.ch/sfs/news-and-events/seminar-applied-statistics.html), ETH Zürich, November 19, 2026.
 
-* Giving a talk at the [Pisa/Bern Meeting on Probability and Statistics](https://sites.google.com/view/pibeworkshop/home), 
+* Plenary Speaker at [Mathematics for planet Earth (M4E)](https://www.mate.polimi.it/events/M4E26/) at Politecnico di Milano, Italy, November 9-11, 2026.  
+
 
 
 ## Past events from the current decade (still filling some gaps)
 
 ### 2026 
+
+
+* Organiser (with Claus Beisbart, Paolo Favaro, Jennifer Inauen, Stavroula Mougiakakou, Anja Mühlemann) of the [STRADA Inaugural Conference](https://strada.unibe.ch/event/strada-conference/), Bern, August 24-25, 2026.  
+
+* Talk at the [Pisa/Bern Meeting on Probability and Statistics](https://sites.google.com/view/pibeworkshop/home), Pisa, June 22-25, 2026.  
 
 * Local organizing committee of [mODa14](https://martinavandebroek.github.io/mODa14/) in Drongen, Belgium, June 15-19, 2026. 
 
