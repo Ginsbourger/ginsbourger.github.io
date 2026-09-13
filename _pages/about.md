@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 My research lies at the interface of statistics, machine learning, and scientific applications, with uncertainty quantification as a recurring theme.
-My work has developed along three main methodological directions: Gaussian processes and random fields, including Bayesian optimization and sequential design; kernels and structured probabilistic modelling; and, increasingly, statistical machine learning for scientific problems, with particular interest in combining data-driven methods with domain knowledge and established disciplinary methodology. Applications span environmental and climate sciences, engineering, and biomedical sciences.
+My work has developed along three main methodological directions: Gaussian processes and targeted active learning, including Bayesian optimization; kernels and structured probabilistic modelling; and, increasingly, statistical machine learning for scientific problems, with particular interest in combining data-driven methods with domain knowledge. Applications span environmental and climate sciences, engineering, and biomedical sciences.
 
 I am currently serving as Director of the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html) 
 of the [University of Bern](http://www.unibe.ch), where I am heading the Uncertainty Quantification and Spatial Statistics Group. My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
@@ -39,7 +39,7 @@ From the real-world application side, I have been working with a number of colle
 and from geosciences. In recent years, my team and I have collaborated with climate scientists, 
 and now also with colleagues from medecine.     
  -->
- 
+
 I defended my PhD in Applied Mathematics at the [Ecole des Mines de Saint-Etienne](http://www.mines-stetienne.fr/en/) in 2009. 
 Previous to that, I obtained a double graduate diploma from Ecole des Mines de Saint-Etienne and [Berlin Technical University](http://www.tu-berlin.de/menue/home/) (2005), a research master's degree in Applied Mathematics jointly awarded by [Jean Monnet University](https://www.univ-st-etienne.fr/fr/index.html) and Ecole des Mines de Saint-Etienne (2005), and a licence in Mathematics from [Joseph Fourier University](https://en.wikipedia.org/wiki/Joseph_Fourier_University), Grenoble (2002).
  
