@@ -6,7 +6,7 @@ author_profile: true
 
 ## Research team 
 
-* [Francesco Carretta]
+* Francesco Carretta
 
 Francesco recently started working on his master thesis project on GP modelling and sequential design on the probability simplex (co-mentored with Tim Steinert, collaboration with the [Arenz group](https://arenz.dcbp.unibe.ch/)).  
 
