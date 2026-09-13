@@ -1,22 +1,25 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Research & academic profile"
+excerpt: "Research & academic profile"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+My research lies at the interface of statistics, machine learning, and scientific applications, with uncertainty quantification as a recurring theme.
+My work has developed along three main methodological directions: Gaussian processes and random fields, including Bayesian optimization and sequential design; kernels and structured probabilistic modelling; and, increasingly, statistical machine learning for scientific problems, with particular interest in combining data-driven methods with domain knowledge and established disciplinary methodology. Applications span environmental and climate sciences, engineering, and biomedical sciences.
+
 I am currently serving as Director of the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html) 
 of the [University of Bern](http://www.unibe.ch), where I am heading the Uncertainty Quantification and Spatial Statistics Group. My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
 
-In recent months, I spent a substantial part of my time at [Isaac Newton Institute](https://www.newton.ac.uk/) (Cambridge, UK), 
+In 2025, I spent a substantial part of my time at [Isaac Newton Institute](https://www.newton.ac.uk/) (Cambridge, UK), 
 where I have been organizing the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
 together with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), [Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) 
 and [Richard Wilkinson](https://rich-d-wilkinson.github.io/). 
 
-In 2025, I joined the [Swiss Academy of Sciences](https://scnat.ch/en) as an elected member, currently being part of the board of the [Platform Mathematics, Astronomy and Physics](https://map.scnat.ch/en). 
+That year, I joined the [Swiss Academy of Sciences](https://scnat.ch/en) as an elected member, currently being part of the board of the [Platform Mathematics, Astronomy and Physics](https://map.scnat.ch/en). 
 I am also an elected member of the [International Statistical Institute](https://isi-web.org/) (2023-), a member of the [ELLIS Society](https://ellis.eu/) (2024-), and have been a member of the 
 [Society for Industrial and Applied Mathematics](https://www.siam.org/), the [Swiss Mathematical Society](https://www.math.ch/), and the [International Association of Mathematical Geology](https://iamg.org/) for a number of years. 
 
@@ -29,11 +32,13 @@ I am serving as Associate Editor of [SIAM/ASA Journal on Uncertainty Quantificat
 [Technometrics](https://www.tandfonline.com/journals/utch20") (2022-2025), and regularly as Area Chair / Meta-Reviewer for major Machine Learning conferences 
 (such as [ICML](https://icml.cc/Conferences/2025), [AISTATS](http://aistats.org/aistats2025/), [NeurIPS](https://neurips.cc/)). I am serving as Senior Area Chair for [AISTATS 2026](http://aistats.org/aistats2026/).
 
+<!--
 A significant part of my research deals with random field (including in particular Gaussian Process) modelling and adaptive design 
 of experiments, with a focus on Bayesian global optimization and related topics such as Bayesian set estimation. Further interests include design and estimation of covariance kernels and parameters,  as well as the theory of Reproducing Kernel Hilbert Spaces. 
 From the real-world application side, I have been working with a number of colleagues both from engineering 
 and from geosciences. In recent years, my team and I have collaborated with climate scientists, 
 and now also with colleagues from medecine.     
+ -->
  
 I defended my PhD in Applied Mathematics at the [Ecole des Mines de Saint-Etienne](http://www.mines-stetienne.fr/en/) in 2009. 
 Previous to that, I obtained a double graduate diploma from Ecole des Mines de Saint-Etienne and [Berlin Technical University](http://www.tu-berlin.de/menue/home/) (2005), a research master's degree in Applied Mathematics jointly awarded by [Jean Monnet University](https://www.univ-st-etienne.fr/fr/index.html) and Ecole des Mines de Saint-Etienne (2005), and a licence in Mathematics from [Joseph Fourier University](https://en.wikipedia.org/wiki/Joseph_Fourier_University), Grenoble (2002).
