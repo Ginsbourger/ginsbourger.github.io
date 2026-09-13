@@ -14,7 +14,7 @@ Below is a list of selected events I will be or was involved in, in one way or a
 
 * Plenary Speaker at [Mathematics for planet Earth (M4E)](https://www.mate.polimi.it/events/M4E26/) at Politecnico di Milano, Italy, November 9-11, 2026.  
 
-* CREST/CMAP Statistics Seminar at ENSAE, Palaiseau, France, September 21, 2026. 
+* [CREST/CMAP Statistics Seminar](https://sites.google.com/view/statseminar-crest-cmap/home) at ENSAE, Palaiseau, France, September 21, 2026. 
 
 ## Past events from the current decade (still filling some gaps)
 
