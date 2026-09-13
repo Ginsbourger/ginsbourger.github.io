@@ -14,6 +14,10 @@ My work has developed along three main methodological directions: Gaussian proce
 I am currently serving as Director of the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html) 
 of the [University of Bern](http://www.unibe.ch), where I am heading the Uncertainty Quantification and Spatial Statistics Group. My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
 
+At the University of Bern, I am also serving on the scientific committee of the [Oeschger Center for Climate Change Research](http://www.oeschger.unibe.ch/), where we are setting up a 
+[Platform on Statistical Data Science and Machine Learning](https://www.oeschger.unibe.ch/research/clusters_and_platforms/platform_data_science/index_eng.html). 
+Also, I am a member of the [Department of Digital Medecine](https://ddm.unibe.ch/) and the [Multidisciplinary Center for Infectious Diseases](https://www.mcid.unibe.ch/).
+
 In 2025, I spent a substantial part of my time at [Isaac Newton Institute](https://www.newton.ac.uk/) (Cambridge, UK), 
 where I have been organizing the programme [Representing, calibrating & leveraging prediction uncertainty from statistics to machine learning](https://www.newton.ac.uk/event/rcl/)
 together with [Florence d'Alché-Buc](https://www.telecom-paris.fr/florence-dalche-buc), [Judith Rousseau](https://www.stats.ox.ac.uk/~rousseau/) 
@@ -23,14 +27,10 @@ That year, I joined the [Swiss Academy of Sciences](https://scnat.ch/en) as an e
 I am also an elected member of the [International Statistical Institute](https://isi-web.org/) (2023-), a member of the [ELLIS Society](https://ellis.eu/) (2024-), and have been a member of the 
 [Society for Industrial and Applied Mathematics](https://www.siam.org/), the [Swiss Mathematical Society](https://www.math.ch/), and the [International Association of Mathematical Geology](https://iamg.org/) for a number of years. 
 
-At the University of Bern, I am also serving on the scientific committee of the [Oeschger Center for Climate Change Research](http://www.oeschger.unibe.ch/), where we are setting up a 
-[Platform on Statistical Data Science and Machine Learning](https://www.oeschger.unibe.ch/research/clusters_and_platforms/platform_data_science/index_eng.html). 
-Also, I am a member of the [Center for Artificial Intelligence in Medecine](https://www.caim.unibe.ch/) and the [Multidisciplinary Center for Infectious Diseases](https://www.mcid.unibe.ch/).
-
 On the editorial side, 
 I am serving as Associate Editor of [SIAM/ASA Journal on Uncertainty Quantification](https://www.siam.org/Publications/Journals/SIAM-ASA-Journal-on-Uncertainty-Quantification-JUQ) (2019-),
 [Technometrics](https://www.tandfonline.com/journals/utch20") (2022-2025), and regularly as Area Chair / Meta-Reviewer for major Machine Learning conferences 
-(such as [ICML](https://icml.cc/Conferences/2025), [AISTATS](http://aistats.org/aistats2025/), [NeurIPS](https://neurips.cc/)). I am serving as Senior Area Chair for [AISTATS 2026](http://aistats.org/aistats2026/).
+(such as [ICML](https://icml.cc/Conferences/2025), [AISTATS](http://aistats.org/aistats2025/), [NeurIPS](https://neurips.cc/)). I am serving as Senior Area Chair for [AISTATS 2027](https://virtual.aistats.org/).
 
 <!--
 A significant part of my research deals with random field (including in particular Gaussian Process) modelling and adaptive design 
