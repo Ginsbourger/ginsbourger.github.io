@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 My research lies at the interface of statistics, machine learning, and scientific applications, with uncertainty quantification as a recurring theme.
-It has developed along three main methodological directions: Gaussian processes and targeted active learning, including Bayesian optimization; kernels and structured probabilistic modelling; and, increasingly, statistical machine learning for scientific problems, with particular interest in combining data-driven methods with domain knowledge. Applications span environmental and climate sciences, engineering, and biomedical sciences.
+It has developed along three main methodological directions: Gaussian processes and targeted active learning, including Bayesian optimization; kernels and structured probabilistic modelling; and, increasingly, statistical machine learning for scientific problems, with particular interest in combining data-driven methods with domain knowledge. Application domains include environmental and biomedical sciences.
 
 I am currently serving as Director of the [Institute of Mathematical Statistics and Actuarial Science](http://www.imsv.unibe.ch/index_eng.html) 
 of the [University of Bern](http://www.unibe.ch), where I am heading the Uncertainty Quantification and Spatial Statistics Group. My office (009) is located at Alpeneggstrasse 22, 3012 Bern, Switzerland. 
