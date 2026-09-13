@@ -6,30 +6,36 @@ author_profile: true
 
 ## Research team 
 
+* [Francesco Carretta]
+
+Francesco recently started working on his master thesis project on GP modelling and sequential design on the probability simplex (co-mentored with Tim Steinert, collaboration with the [Arenz group](https://arenz.dcbp.unibe.ch/)).  
+
 * [Antoine Faul](https://www.imsv.unibe.ch/about_us/staff/faul_antoine_lo/index_eng.html)
 
 PhD student at UniBE jointly advised with [B. Spycher](https://www.ispm.unibe.ch/about_us/staff/spycher_ben/index_eng.html), with a focus is on statistical modelling for personalized medicine in the framework of the Mutidisciplinary Center for Infectious Diseases. 
 
-* [Chet Gillespie](https://www.imsv.unibe.ch/about_us/staff/gillespie_chet/index_eng.html) 
-
-Chet is working on his master's thesis in statistics and data science in collaboration with the [Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group at UniBE 
-(co-mentored with Adrian Huerta and Stefan Brönnimann). 
-
-
 * [Tim Steinert](https://www.imsv.unibe.ch/ueber_uns/personen/steinert_tim_michael/index_ger.html)
 
 Tim is working towards a PhD in statistics with focus on kernel design and inference in the framework of a collaborative project on "perception in statistics and econometrics". 
-
-* [Jan Vanhove](https://www.unifr.ch/directory/en/people/17427/56ae4)
-
-Jan master's thesis in statistics and data science revolves around sliced Wasserstein kernels.  
-
-**Important Note**: with Antoine, Ben and others from joint projects with [Petra Stute](http://www.frauenheilkunde.insel.ch/de/ueber-uns/team/details/person/detail/petra-stute)'s team, 
+He is currently on a 1-year visit at NASA JPL. 
+  
+<!-- **Important Note**: with Antoine, Ben and others from joint projects with [Petra Stute](http://www.frauenheilkunde.insel.ch/de/ueber-uns/team/details/person/detail/petra-stute)'s team, 
 we also enjoy statistical interactions with our colleagues [Anja Mühlemann](https://www.imsv.unibe.ch/ueber_uns/personen/dr_muehlemann_anja/index_ger.html), 
 [Philip Stange](https://www.imsv.unibe.ch/about_us/staff/stange_philip_arndt/index_eng.html), and [Patric Wyss](https://www.ispm.unibe.ch/about_us/staff/wyss_patric/index_eng.html) who 
 are participating in our collaboration.   
+-->
 
 ## Past team members and alumni 
+
+* [Chet Gillespie](https://www.imsv.unibe.ch/about_us/staff/gillespie_chet/index_eng.html) 
+
+Chet worked on his master's thesis in statistics and data science in collaboration with the [Stefan Brönnimann](https://www.geography.unibe.ch/ueber_uns/personen/prof_dr_broennimann_stefan/index_ger.html)'s group at UniBE 
+(co-mentored with Adrian Huerta and Stefan Brönnimann). 
+
+
+* [Jan Vanhove](https://www.unifr.ch/directory/en/people/17427/56ae4)
+
+Jan master's thesis in statistics and data science revolved around sliced Wasserstein kernels.
 
 * [Eliane Maalouf](https://www.unine.ch/imi/en/home/equipe/eliane-maalouf.html)
  
