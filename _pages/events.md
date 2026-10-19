@@ -10,16 +10,18 @@ Below is a list of selected events I will be or was involved in, in one way or a
 
 * Co-chair (with Cheng Li, Roshan Joseph, Jeff Wu) of the two-week program on [Uncertainty Quantification via Gaussian Processes and Beyond](https://ims.nus.edu.sg/events/uqgaussianbeyond/) at the Institute for Mathematical Sciences (IMS), National University of Singapore, from June 7-18, 2027.
 
+* Invited participant to the online lunch event "Slow Science in Times of AI" organized by [Better Science](https://betterscience.ch/), [online](https://events.teams.microsoft.com/event/8a0b689c-85d3-45d0-b1a5-21e077b855e3@d400387a-212f-43ea-ac7f-77aa12d7977e?source=copyLinkOneEventsShareDialog), November 25, 2026.
+
 * Invited talk at the [ZüKoSt: Seminar on Applied Statistics](https://math.ethz.ch/sfs/news-and-events/seminar-applied-statistics.html), ETH Zürich, November 19, 2026.
 
 * Plenary Speaker at [Mathematics for planet Earth (M4E)](https://www.mate.polimi.it/events/M4E26/) at Politecnico di Milano, Italy, November 9-11, 2026.  
 
-* [CREST/CMAP Statistics Seminar](https://sites.google.com/view/statseminar-crest-cmap/home) at ENSAE, Palaiseau, France, September 21, 2026. 
 
 ## Past events from the current decade (still filling some gaps)
 
 ### 2026 
 
+* [CREST/CMAP Statistics Seminar](https://sites.google.com/view/statseminar-crest-cmap/home) at ENSAE, Palaiseau, France, September 21, 2026. 
 
 * Organiser (with Claus Beisbart, Paolo Favaro, Jennifer Inauen, Stavroula Mougiakakou, Anja Mühlemann) of the [STRADA Inaugural Conference](https://strada.unibe.ch/event/strada-conference/), Bern, August 24-25, 2026.  
 
